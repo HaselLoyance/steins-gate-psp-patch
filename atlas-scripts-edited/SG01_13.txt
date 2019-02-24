@@ -2002,11 +2002,11 @@ Have--
 <END>
 
 #WRITE(PTR, $0000A52E)
-見つけた。
+Found it.
 <END>
 
 #WRITE(PTR, $0000A5EC)
-【Rintaro】Found it.
+【Rintaro】Fu, fuhaha, fwahahahaha!
 <END>
 
 #WRITE(PTR, $0000A5FC)

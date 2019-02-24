@@ -1569,19 +1569,19 @@ Was I shot?
 <END>
 
 #WRITE(PTR, $0000443A)
-知るものか。
-<END>
-
-#WRITE(PTR, $00004628)
 Like I give shit.
 <END>
 
+#WRITE(PTR, $00004628)
+After that, beyond the smoke, bluish-white light.
+<END>
+
 #WRITE(PTR, $00004638)
-After that, beyond the smoke. Bluish-white light.
+The discharge phenomenon is starting!
 <END>
 
 #WRITE(PTR, $00004648)
-The discharge phenomenon is starting!
+And the white light is growing brighter.
 <END>
 
 #WRITE(PTR, $00004658)
