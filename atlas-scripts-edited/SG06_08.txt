@@ -438,7 +438,7 @@ We should board from another station.
 <END>
 
 #WRITE(PTR, $00001B4E)
-Around Akiba, there's Ochanomizu Station, Shin-Ochanomizu Station, Iwamotocho Station, Suehirocho Station, and Awajicho Station. And then a little further away, there's also Kanda Station and Okachimachi Station.
+Around Akiba, there's Shin-Ochanomizu Station, Suehirocho Station, and Awajicho Station. There's also Kanda Station and Okachimachi Station further away.
 <END>
 
 #WRITE(PTR, $00001B5E)

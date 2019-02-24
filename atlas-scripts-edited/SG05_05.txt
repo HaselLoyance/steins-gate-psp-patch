@@ -158,7 +158,7 @@ Before that, he was unwilling no matter how much I persuaded him.
 <END>
 
 #WRITE(PTR, $0000054C)
-But as soon as he learned that the lab was located just a three minutes walk from MayQueen+Nyan⑯, he flip-flopped and said "Actually, I've always wanted to be part of the Future Gadget Laboratory."
+But when he learned that the lab was located just a three minutes walk from MayQueen+Nyan⑯, he said "Actually, I've always wanted to be a part of the lab".
 <END>
 
 #WRITE(PTR, $0000055C)
