@@ -10,6 +10,7 @@ The general workflow can be described like this:
 
 #### UMDGen and ISO
 By using UMDGen files can be extracted from the game ISO. I'll take `DATA0.AFS` as an example. I will use `I:/` when talking about the files inside of the ISO and usual `/` when talking about files relative to the root of the repo.
+
 **Extracting:**
 1. Open the game ISO inside of UMDGen.
 2. Navigate to `I:/PSP_GAME/USRDIR`.
@@ -46,6 +47,7 @@ Make sure that the name of the new file exactly matches the name of the original
 I'm going to mention once again that AFSExplorer might be not the best choice for you, depending on the game you are working with. As far as I know, it doesn't work with *Chaos;Head Noah*, while [Puyo Tools](https://github.com/nickworonekin/puyotools) works just fine.
 
 By using AFSExplorer the AFS archives can be unpacked. I’ll take `DATA0.AFS` as an example. I will use `A:/` when talking about the files inside of the AFS archive and usual `/` when talking about files relative to the root of the repo.
+
 **Unpacking:**
 1. Import AFS archive into AFSExplorer.
    1. Following from the ISO example above, this archive would be `/DATA0.AFS/DATA0_ORIGINAL.AFS`.
@@ -79,7 +81,7 @@ By using AFSExplorer the AFS archives can be repacked. For this example we are g
       2. If reserved space for some file is 4096 bytes (2 chunks) and the files takes 2049 bytes (more than 1 chunk), then that means that we have no free space.
       3. If `/SCENE00.AFS/SCENE00.AFS` is less in size than `/SCENE00.AFS/SCENE00_ORIGINAL.AFS`, then we are going to have some leftover space in `A:/DATA0.AFS` when importing.
       4. If `/SCENE00.AFS/SCENE00.AFS` is greater in size than `/SCENE00.AFS/SCENE00_ORIGINAL.AFS`, then we are not going to have enough space in `A:/DATA0.AFS` when importing.
-   3. During my work on S;G I've discovered that the game was breaking when there was even 1 chunk of free space, so ideally you want to reserver only as many chunks per file as you need and not more. 
+   3. During my work on S;G I've discovered that the game was breaking when there was even 1 chunk of free space, so ideally you want to reserver only as many chunks per file as you need and not more.
 3. **If `/SCENE00.AFS/SCENE00.AFS` is greater in size than the original:**
    1. You'll be prompted with the dialog that there is no room to import the file. When asked if you want to modify reserved space click `Yes`.
    2. In my tests AFSExplorer was never able to modify the reserved space automatically.

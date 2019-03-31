@@ -84,7 +84,7 @@ Net
 <END2>
 
 #WRITE(PTR, $00000078)
-Reference to the line "Uho! Ii otoko!" [Woah! Hot guy!] from Kuso Miso Technique.
+Reference to the line "Uho! Ii otoko!" (Woah! Hot guy!) from Kuso Miso Technique.
 <END2>
 
 #WRITE(PTR, $00000090)
