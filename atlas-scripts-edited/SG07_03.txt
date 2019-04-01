@@ -398,7 +398,7 @@ And with Daru's help, I bought a remote for the 42in Braun tube TV downstairs fr
 <END>
 
 #WRITE(PTR, $000019BE)
-When we were experimenting with the Microwave Ophone earlier, it made a hole in the floor, but that's actually useful. Instead of filling the hole, I made it bigger.
+When we were experimenting with the PhoneWave earlier, it made a hole in the floor, but that's actually useful. Instead of filling the hole, I made it bigger.
 <END>
 
 #WRITE(PTR, $000019CE)

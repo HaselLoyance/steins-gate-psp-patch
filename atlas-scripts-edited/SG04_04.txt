@@ -175,7 +175,7 @@ That's right, Moeka is a lab mem.
 <END>
 
 #WRITE(PTR, $00000A9A)
-Yesterday, we told her everything about the Microwave Ophone (Temp) and D-mails.
+Yesterday, we told her everything about the PhoneWave (Temp) and D-mails.
 <END>
 
 #WRITE(PTR, $00000AAA)
@@ -195,7 +195,7 @@ Feeling there's no meaning in denying Moeka her request, I put my phone to my ea
 <END>
 
 #WRITE(PTR, $00000AFE)
-【Rintaro】So, about whether or not I should bring Shining Finger into the Microwave Ophone (Temp) experiments.
+【Rintaro】So, about whether or not I should bring Shining Finger into the PhoneWave (Temp) experiments.
 <END>
 
 #WRITE(PTR, $00000B0E)

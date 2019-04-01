@@ -6,7 +6,7 @@
 #JMP($00004550)
 
 #WRITE(PTR, $00000912)
-Since it's night, we tried to activate the Microwave Ophone (Temp) again, but the result was no different. The discharge phenomenon still won't occur.
+Since it's night, we tried to activate the PhoneWave (Temp) again, but the result was no different. The discharge phenomenon still won't occur.
 <END>
 
 #WRITE(PTR, $000009F6)
@@ -82,7 +82,7 @@ Kurisu calls out from the development room.
 <END>
 
 #WRITE(PTR, $00001592)
-Looks like she was listening while tinkering with the Microwave Ophone (Temp).
+Looks like she was listening while tinkering with the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $0000167A)
@@ -106,7 +106,7 @@ Looks like she was listening while tinkering with the Microwave Ophone (Temp).
 <END>
 
 #WRITE(PTR, $000019D6)
-【Mayuri】Yupperdoodles♪ I mean, isn't it tough to work on Microwave Ophone-chan's improvements-?
+【Mayuri】Yupperdoodles♪ I mean, isn't it tough to work on PhoneWave-chan's improvements-?
 <END>
 
 #WRITE(PTR, $00001A84)

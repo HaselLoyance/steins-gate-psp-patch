@@ -466,7 +466,7 @@ What was there wasn't the Time Leap Machine.
 <END>
 
 #WRITE(PTR, $000013DA)
-It was the Microwave Ophone (Temp).
+It was the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $000013EA)

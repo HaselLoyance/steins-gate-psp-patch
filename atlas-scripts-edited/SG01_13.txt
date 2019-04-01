@@ -342,7 +342,7 @@ She already turned her eyes away from me.
 <END>
 
 #WRITE(PTR, $0000305A)
-Now, her gaze is aimed at the banana bunch next to the Microwave Ophone.
+Now, her gaze is aimed at the banana bunch next to the PhoneWave.
 <END>
 
 #WRITE(PTR, $000030FE)
@@ -566,7 +566,7 @@ Will you stop saying 'for now'? It worries me that you might call the cops on me
 <END>
 
 #WRITE(PTR, $000056CE)
-Kurisu throws a glance at the Microwave Ophone (Temp).
+Kurisu throws a glance at the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $00005772)
@@ -574,7 +574,7 @@ Kurisu throws a glance at the Microwave Ophone (Temp).
 <END>
 
 #WRITE(PTR, $00005816)
-【Rintaro】It's top secret. Though, if I were to tell an outsider like you just one thing, I will tell you that the name of this thing is "Microwave Ophone (Temp)".
+【Rintaro】It's top secret. Though, if I were to tell an outsider like you just one thing, I will tell you that the name of this thing is "PhoneWave (Temp)".
 <END>
 
 #WRITE(PTR, $0000593A)
@@ -846,7 +846,7 @@ In the end, I had to be the one to explain it all. When I tried to do my usual d
 <END>
 
 #WRITE(PTR, $00007B6C)
-I spoke about the Microwave Ophone's (Temp) and the banana's relationship without a shred of falsehood. As expected of a genius, she didn't ask a single question.
+I spoke about the PhoneWave's (Temp) and the banana's relationship without a shred of falsehood. As expected of a genius, she didn't ask a single question.
 <END>
 
 #WRITE(PTR, $00007C1E)
@@ -874,7 +874,7 @@ After saying that, she picks a normal banana from the bunch without even waiting
 <END>
 
 #WRITE(PTR, $00007C9E)
-With a serious look on her face, she puts the banana in the Microwave Ophone (Temp) and uses her own phone to start it up.
+With a serious look on her face, she puts the banana in the PhoneWave (Temp) and uses her own phone to start it up.
 <END>
 
 #WRITE(PTR, $00007CAE)
@@ -1150,11 +1150,11 @@ Looks like our girl genius is fighting a hard battle. She's aimlessly wandering 
 <END>
 
 #WRITE(PTR, $0000844A)
-【Kurisu】Any others? Are there any other things you found out that are related to the Microwave Ophone?
+【Kurisu】Any others? Are there any other things you found out that are related to the PhoneWave?
 <END>
 
 #WRITE(PTR, $0000845A)
-【Rintaro】It's not Microwave Ophone, but Microwave Ophone (Temp).
+【Rintaro】It's not PhoneWave, but PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $00008474)
@@ -1170,7 +1170,7 @@ Kurisu askingly looks not at me, but at Daru.
 <END>
 
 #WRITE(PTR, $000084A4)
-He's the one who did all the maintenance of the Microwave Ophone (Temp), so he should know more about it.
+He's the one who did all the maintenance of the PhoneWave (Temp), so he should know more about it.
 <END>
 
 #WRITE(PTR, $000084EC)
@@ -1322,7 +1322,7 @@ No matter how hard I search, I can't find the record of the mail I sent.
 <END>
 
 #WRITE(PTR, $000087FA)
-Just like the banana inside the Microwave Ophone (Temp).
+Just like the banana inside the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $0000880A)
@@ -1362,7 +1362,7 @@ With a broad grin, I look over Daru and Kurisu.
 <END>
 
 #WRITE(PTR, $00008966)
-I repeatedly hit the top of the Microwave Ophone (Temp) with the palm of my hand.
+I repeatedly hit the top of the PhoneWave (Temp) with the palm of my hand.
 <END>
 
 #WRITE(PTR, $00008976)
@@ -1422,7 +1422,7 @@ If we repeat the electrical discharge, then the time-stamp of a mail should beco
 <END>
 
 #WRITE(PTR, $00008B2A)
-【Rintaro】Daru, explain in detail the state of the Microwave Ophone (Temp) when the electrical discharge occurred.
+【Rintaro】Daru, explain in detail the state of the PhoneWave (Temp) when the electrical discharge occurred.
 <END>
 
 #WRITE(PTR, $00008B44)
@@ -1498,7 +1498,7 @@ After noticing Kurisu, Mayuri slightly bows her head while smiling.
 <END>
 
 #WRITE(PTR, $00008E82)
-【Rintaro】Mayuri, put the Juicy Karaage Number One into the Microwave Ophone (Temp)!
+【Rintaro】Mayuri, put the Juicy Karaage Number One into the PhoneWave (Temp)!
 <END>
 
 #WRITE(PTR, $00008ECA)
@@ -1522,7 +1522,7 @@ I enter "120#"" on the keyboard and press the enter key.
 <END>
 
 #WRITE(PTR, $00008F8C)
-The Microwave Ophone starts working.
+The PhoneWave starts working.
 <END>
 
 #WRITE(PTR, $00008F9C)
@@ -1530,7 +1530,7 @@ The turntable and the Juicy Karaage Number One placed on it start rotating in th
 <END>
 
 #WRITE(PTR, $00008FE4)
-Kurisu is observing the activity of the Microwave Ophone (Temp) with a serious look on her face.
+Kurisu is observing the activity of the PhoneWave (Temp) with a serious look on her face.
 <END>
 
 #WRITE(PTR, $00008FF4)
@@ -1566,7 +1566,7 @@ As if not to miss any abnormality.
 <END>
 
 #WRITE(PTR, $0000917C)
-If the conditions are right, then sending an email to my phone connected to the Microwave Ophone (Temp) will cause the time-stamp of that mail to be the past.
+If the conditions are right, then sending an email to my phone connected to the PhoneWave (Temp) will cause the time-stamp of that mail to be the past.
 <END>
 
 #WRITE(PTR, $0000918C)
@@ -1678,7 +1678,7 @@ As we're doing this and that, Mayuri looks at the usual banana bunch with a face
 <END>
 
 #WRITE(PTR, $0000946E)
-Mayuri quickly walks towards the Microwave Ophone (Temp).
+Mayuri quickly walks towards the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $0000947E)
@@ -1718,7 +1718,7 @@ The violent sound of sparks.
 <END>
 
 #WRITE(PTR, $00009834)
-I grab Mayuri's body and move her a step away from the Microwave Ophone (Temp).
+I grab Mayuri's body and move her a step away from the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $00009852)
@@ -1818,7 +1818,7 @@ The sight in front of me makes me lose my words.
 <END>
 
 #WRITE(PTR, $00009DE4)
-The large table in the middle of this room. Made of wood and sturdy enough to hold 5 or 6 people. The table which supported the Microwave Ophone and the X68000...
+The large table in the middle of this room. Made of wood and sturdy enough to hold 5 or 6 people. The table which supported the PhoneWave and the X68000...
 <END>
 
 #WRITE(PTR, $00009DF4)
@@ -1866,7 +1866,7 @@ For now, a loud laugh.
 <END>
 
 #WRITE(PTR, $00009F60)
-Then, I attempt to take out the cellphone and do the usual, but unfortunately, it's in the Microwave Ophone.
+Then, I attempt to take out the cellphone and do the usual, but unfortunately, it's in the PhoneWave.
 <END>
 
 #WRITE(PTR, $00009FFE)
@@ -1902,7 +1902,7 @@ Due to the many years of saying them, I can now calm my heart and mind just by m
 <END>
 
 #WRITE(PTR, $0000A19C)
-After standing up, Mayuri slowly looks at the Microwave Ophone (Temp).
+After standing up, Mayuri slowly looks at the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $0000A1AC)
@@ -1954,7 +1954,7 @@ This is a day which will create history. These buffoons do not have the right to
 <END>
 
 #WRITE(PTR, $0000A3B8)
-With my heart beating fast, I extend my hand towards my cellphone which is still connected to the Microwave Ophone (Temp).
+With my heart beating fast, I extend my hand towards my cellphone which is still connected to the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $0000A412)
@@ -2038,7 +2038,7 @@ Everything occurred to me just now.
 <END>
 
 #WRITE(PTR, $0000A66C)
-【Rintaro】I just saw the truth behind the hidden function of this Microwave Ophone...!
+【Rintaro】I just saw the truth behind the hidden function of this PhoneWave...!
 <END>
 
 #WRITE(PTR, $0000A682)
@@ -2106,7 +2106,7 @@ This is the choice of Steins;Gate.
 <END>
 
 #WRITE(PTR, $0000A7C4)
-【Rintaro】This Microwave Ophone (Temp) is a--
+【Rintaro】This PhoneWave (Temp) is a--
 <END>
 
 #WRITE(PTR, $0000A7DA)

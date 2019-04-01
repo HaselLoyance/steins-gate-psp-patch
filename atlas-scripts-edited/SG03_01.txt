@@ -78,7 +78,7 @@ But I don't think this is a mere coincidence.
 <END>
 
 #WRITE(PTR, $000004A6)
-The gelified bananas produced by the Microwave Ophone (Temp), and the jellyman-ified corpses produced by SERN's experiments.
+The gelified bananas produced by the PhoneWave (Temp), and the jellyman-ified corpses produced by SERN's experiments.
 <END>
 
 #WRITE(PTR, $000004B6)
@@ -1079,7 +1079,7 @@ If we believe in Titor's words, then the time machine won't be complete for anot
 <END>
 
 #WRITE(PTR, $00001FA2)
-【Rintaro】Basically, if we can complete the Microwave Ophone (Temp) first, then we can outwit SERN...!
+【Rintaro】Basically, if we can complete the PhoneWave (Temp) first, then we can outwit SERN...!
 <END>
 
 #WRITE(PTR, $00001FBC)

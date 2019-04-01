@@ -550,7 +550,7 @@ Daru, squishing his large body behind the PC to work the wiring, wipes the sweat
 <END>
 
 #WRITE(PTR, $00003162)
-【Rintaro】Right. I witnessed your death and sent Daru a D-mail. He just happened to be running an experiment on the Microwave Ophone (Temp), so the discharge phenom...en...on-
+【Rintaro】Right. I witnessed your death and sent Daru a D-mail. He just happened to be running an experiment on the PhoneWave (Temp), so the discharge phenom...en...on-
 <END>
 
 #WRITE(PTR, $0000324C)

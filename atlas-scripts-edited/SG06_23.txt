@@ -1286,7 +1286,7 @@ Or is it just running away from reality?
 <END>
 
 #WRITE(PTR, $000070BE)
-Shouldn't I examine other options, like calling up the Microwave Ophone (Temp) and time leaping again?
+Shouldn't I examine other options, like calling up the PhoneWave (Temp) and time leaping again?
 <END>
 
 #WRITE(PTR, $000070E4)
@@ -1410,7 +1410,7 @@ Instead, I impulsively don the headgear.
 <END>
 
 #WRITE(PTR, $0000806A)
- I set the Microwave Ophone (Temp)'s timer to the time leap limit of 48 hours.
+ I set the PhoneWave (Temp)'s timer to the time leap limit of 48 hours.
 <END>
 
 #WRITE(PTR, $0000807A)

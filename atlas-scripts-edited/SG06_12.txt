@@ -30,7 +30,7 @@ Moeka's goal is to restrain us. And to retrieve this.
 <END>
 
 #WRITE(PTR, $00000568)
-If only we never had this Microwave Ophone (Temp) in the first place.
+If only we never had this PhoneWave (Temp) in the first place.
 <END>
 
 #WRITE(PTR, $00000578)
@@ -1002,7 +1002,7 @@ Kurisu grins faintly and stand up after she's done typing.
 <END>
 
 #WRITE(PTR, $000023EC)
-【Kurisu】I'm the one who improved the Microwave Ophone into the Time Leap Machine in the first place, aren't I?
+【Kurisu】I'm the one who improved the PhoneWave into the Time Leap Machine in the first place, aren't I?
 <END>
 
 #WRITE(PTR, $000023FC)
@@ -1042,7 +1042,7 @@ I see...
 <END>
 
 #WRITE(PTR, $000024A0)
-I nod, and without any hesitation, call the Microwave Ophone (Temp)'s number.
+I nod, and without any hesitation, call the PhoneWave (Temp)'s number.
 <END>
 
 #WRITE(PTR, $000026E0)

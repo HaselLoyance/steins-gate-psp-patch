@@ -274,7 +274,7 @@ The usual guy in shades appears at the same time the ceiling starts shaking.
 <END>
 
 #WRITE(PTR, $00002542)
-Kurisu activated the Microwave Ophone (Temp) with perfect timing.
+Kurisu activated the PhoneWave (Temp) with perfect timing.
 <END>
 
 #WRITE(PTR, $00002552)

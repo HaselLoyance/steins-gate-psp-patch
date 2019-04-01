@@ -567,7 +567,7 @@ Kurisu follows.
 <END>
 
 #WRITE(PTR, $000032FA)
-【Kurisu】Can you show me the Microwave Ophone?
+【Kurisu】Can you show me the PhoneWave?
 <END>
 
 #WRITE(PTR, $0000330A)
@@ -607,7 +607,7 @@ Kurisu looks around inside the development room--
 <END>
 
 #WRITE(PTR, $000033AE)
-【Rintaro】Stored here are Future Gadget Nos. 1-7, with the Microwave Ophone (Temp) numbered as Future Gadget No. 8.
+【Rintaro】Stored here are Future Gadget Nos. 1-7, with the PhoneWave (Temp) numbered as Future Gadget No. 8.
 <END>
 
 #WRITE(PTR, $000033BE)
@@ -771,11 +771,11 @@ The bunch of bananas Kurisu picked up only has three bananas left.
 <END>
 
 #WRITE(PTR, $00004612)
-Kurisu takes one banana from the bunch, squats down, and places it inside the Microwave Ophone (Temp). She begins to type on her phone.
+Kurisu takes one banana from the bunch, squats down, and places it inside the PhoneWave (Temp). She begins to type on her phone.
 <END>
 
 #WRITE(PTR, $000046FA)
-She puts the Microwave Ophone (Temp) into reverse rotation by remote control.
+She puts the PhoneWave (Temp) into reverse rotation by remote control.
 <END>
 
 #WRITE(PTR, $000047AA)
@@ -851,7 +851,7 @@ Though, Kurisu's and my motives are probably the exact opposite.
 <END>
 
 #WRITE(PTR, $0000547E)
-This assistant wholeheartedly wants to disprove the Microwave Ophone (Temp) = Time Machine theory.
+This assistant wholeheartedly wants to disprove the PhoneWave (Temp) = Time Machine theory.
 <END>
 
 #WRITE(PTR, $00005522)
@@ -859,7 +859,7 @@ This assistant wholeheartedly wants to disprove the Microwave Ophone (Temp) = Ti
 <END>
 
 #WRITE(PTR, $000055C6)
-【Rintaro】After 120 seconds in the Microwave Ophone (Temp), the banana teleported back to the bunch, gelified. We should consider that it returned to its state 120 seconds ago.
+【Rintaro】After 120 seconds in the PhoneWave (Temp), the banana teleported back to the bunch, gelified. We should consider that it returned to its state 120 seconds ago.
 <END>
 
 #WRITE(PTR, $00005674)

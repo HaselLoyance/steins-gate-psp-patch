@@ -514,7 +514,7 @@ I'd have no means to rescue Mayuri.
 <END>
 
 #WRITE(PTR, $00001458)
-Because the lab is no more, and I also lost the Microwave Ophone (Temp).
+Because the lab is no more, and I also lost the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $00001468)

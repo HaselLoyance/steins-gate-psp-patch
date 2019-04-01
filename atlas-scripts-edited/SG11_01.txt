@@ -678,7 +678,7 @@ But how?
 <END>
 
 #WRITE(PTR, $00001F9E)
-The Microwave Ophone (Temp) is no more. I can't send D-mails or time leap back to that day--
+The PhoneWave (Temp) is no more. I can't send D-mails or time leap back to that day--
 <END>
 
 #WRITE(PTR, $00001FAE)

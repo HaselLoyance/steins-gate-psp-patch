@@ -186,7 +186,7 @@ Seems she won't report it.
 <END>
 
 #WRITE(PTR, $00001246)
-【Rintaro】Through hacking SERN, we discovered another possibility for the Microwave Ophone (Temp).
+【Rintaro】Through hacking SERN, we discovered another possibility for the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $00001256)

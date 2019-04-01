@@ -46,7 +46,7 @@ She says it so nonchalantly, but there's no way I could've looked at it.
 <END>
 
 #WRITE(PTR, $000003EE)
-My phone's hooked up to the Microwave Ophone (Temp)!
+My phone's hooked up to the PhoneWave (Temp)!
 <END>
 
 #WRITE(PTR, $000003FE)
@@ -54,7 +54,7 @@ Man, she's such a sarcastic woman.
 <END>
 
 #WRITE(PTR, $0000046A)
-I grind my teeth and disconnect my phone from the Microwave Ophone (Temp).
+I grind my teeth and disconnect my phone from the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $000005CA)
@@ -110,7 +110,7 @@ I sigh and take a boxed lunch out of the convenience store bag.
 <END>
 
 #WRITE(PTR, $00000D1A)
-It got cold, so I toss it into the Microwave Ophone (Temp) and set the timer normally.
+It got cold, so I toss it into the PhoneWave (Temp) and set the timer normally.
 <END>
 
 #WRITE(PTR, $00000DCA)
@@ -278,7 +278,7 @@ The dozens of experimental mails we sent were received in three parts of 12 half
 <END>
 
 #WRITE(PTR, $0000180E)
-Though we can only set it in one hour increments, we can control how far back D-mails go using the Microwave Ophone (Temp)'s timer.
+Though we can only set it in one hour increments, we can control how far back D-mails go using the PhoneWave (Temp)'s timer.
 <END>
 
 #WRITE(PTR, $0000181E)
@@ -470,7 +470,7 @@ There's still the question of whether you can even do that in the first place.
 <END>
 
 #WRITE(PTR, $00001CCC)
-【Kurisu】In the first place, SERN does have a Lifter, but we don't know what substitutes that Lifter in the Microwave Ophone. Then there's the problem of adjustment.
+【Kurisu】In the first place, SERN does have a Lifter, but we don't know what substitutes that Lifter in the PhoneWave. Then there's the problem of adjustment.
 <END>
 
 #WRITE(PTR, $00001CDC)
@@ -628,7 +628,7 @@ Kurisu gives us a cold stare, shrugging her shoulders in amazement.
 <END>
 
 #WRITE(PTR, $00002142)
-【Kurisu】I've said it before, but the problem is where the Lifter's substitute in that Microwave Ophone is.
+【Kurisu】I've said it before, but the problem is where the Lifter's substitute in that PhoneWave is.
 <END>
 
 #WRITE(PTR, $00002152)
@@ -664,7 +664,7 @@ I nod when Kurisu sarcastically brings up the subject.
 <END>
 
 #WRITE(PTR, $00002202)
-【Kurisu】We should further inspect the Microwave Ophone. We need to understand what's going on.
+【Kurisu】We should further inspect the PhoneWave. We need to understand what's going on.
 <END>
 
 #WRITE(PTR, $00002212)

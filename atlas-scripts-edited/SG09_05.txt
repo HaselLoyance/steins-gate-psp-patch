@@ -838,7 +838,7 @@ Her mail typing skill is so fast I call her Shining Finger, after all.
 <END>
 
 #WRITE(PTR, $00005004)
-It should be no trouble for her to type out a meager 36 byte message while Daru and I are preoccupied with the Microwave Ophone (Temp).
+It should be no trouble for her to type out a meager 36 byte message while Daru and I are preoccupied with the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $00005014)

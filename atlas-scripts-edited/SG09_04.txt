@@ -557,7 +557,7 @@ I stand up, relocate to the entranceway, and take the call without letting Moeka
 <END>
 
 #WRITE(PTR, $000022CC)
-【Kurisu】You promised to help with the Microwave Ophone's improvements, didn't you? Or are you Lab Member 001 just for show?
+【Kurisu】You promised to help with the PhoneWave's improvements, didn't you? Or are you Lab Member 001 just for show?
 <END>
 
 #WRITE(PTR, $000022E8)
@@ -1377,7 +1377,7 @@ Why won't anything happen?
 <END>
 
 #WRITE(PTR, $000042B6)
-Did the Microwave Ophone (Temp) not work?
+Did the PhoneWave (Temp) not work?
 <END>
 
 #WRITE(PTR, $00004308)

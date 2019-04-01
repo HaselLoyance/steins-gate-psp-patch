@@ -466,7 +466,7 @@ But the police fixated the pointed end with something like rope, so Daru probabl
 <END>
 
 #WRITE(PTR, $00001738)
-【Itaru】This thing kind of seems like the Microwave Ophone.
+【Itaru】This thing kind of seems like the PhoneWave.
 <END>
 
 #WRITE(PTR, $00001748)

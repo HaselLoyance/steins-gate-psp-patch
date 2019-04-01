@@ -418,7 +418,7 @@ Data time travel... huh.
 <END>
 
 #WRITE(PTR, $0000194E)
-【Kurisu】I thought about it before, but we should bring the Microwave Ophone to a proper research institution and entrust it to a specialist.
+【Kurisu】I thought about it before, but we should bring the PhoneWave to a proper research institution and entrust it to a specialist.
 <END>
 
 #WRITE(PTR, $0000195E)
@@ -442,7 +442,7 @@ Data time travel... huh.
 <END>
 
 #WRITE(PTR, $000019AE)
-【Rintaro】If we officially announce the Microwave Ophone (Temp), we might be erased.
+【Rintaro】If we officially announce the PhoneWave (Temp), we might be erased.
 <END>
 
 #WRITE(PTR, $00001A72)

@@ -638,7 +638,7 @@ My memories with Kurisu keep running around my mind like a revolving lantern.
 <END>
 
 #WRITE(PTR, $00001B02)
-【Kurisu】Then, once the Microwave Ophone's improvements are done, come with me.
+【Kurisu】Then, once the PhoneWave's improvements are done, come with me.
 <END>
 
 #WRITE(PTR, $00001B98)
@@ -682,7 +682,7 @@ The Time Leap Machine would never have been completed without Kurisu.
 <END>
 
 #WRITE(PTR, $00001F86)
-She spent sleepless nights upgrading the Microwave Ophone (Temp).
+She spent sleepless nights upgrading the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $0000202C)

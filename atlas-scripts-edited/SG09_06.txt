@@ -118,7 +118,7 @@ Leaving the calculation to Kurisu, I write up the mail to say "Don't go to shrin
 <END>
 
 #WRITE(PTR, $000006E4)
-I enter the address of the Microwave Ophone (Temp).
+I enter the address of the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $0000073C)

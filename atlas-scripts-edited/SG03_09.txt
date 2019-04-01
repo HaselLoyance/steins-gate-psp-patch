@@ -38,7 +38,7 @@ The screws were loosened, but it seems to have snapped somewhere because I did i
 <END>
 
 #WRITE(PTR, $00000B44)
-And I'm doing this because its one of the Microwave Ophone (Temp) improvements Daru told me to do.
+And I'm doing this because its one of the PhoneWave (Temp) improvements Daru told me to do.
 <END>
 
 #WRITE(PTR, $00000B54)
@@ -354,7 +354,7 @@ I give my gratitude to Working Warrior, shifting my attention back inside.
 <END>
 
 #WRITE(PTR, $00003946)
-【Itaru】That doesn't matter. For now, I just want to try out the Microwave Ophone 2nd Edition ver1.03.
+【Itaru】That doesn't matter. For now, I just want to try out the PhoneWave 2nd Edition ver1.03.
 <END>
 
 #WRITE(PTR, $0000398E)
@@ -458,7 +458,7 @@ If she violates it, I'll confiscate her phone by force and use it as a threat.
 <END>
 
 #WRITE(PTR, $00003E06)
-The Microwave Ophone (Temp) can send a D-mail at any time.
+The PhoneWave (Temp) can send a D-mail at any time.
 <END>
 
 #WRITE(PTR, $00003E4E)
@@ -478,7 +478,7 @@ We set the microwave timer to 60# and press the warm button. And even though the
 <END>
 
 #WRITE(PTR, $000040D2)
-The discharge phenomenon occurs, and Mayuri's mail goes through the Microwave Ophone (Temp)'s dedicated phone to my phone.
+The discharge phenomenon occurs, and Mayuri's mail goes through the PhoneWave (Temp)'s dedicated phone to my phone.
 <END>
 
 #WRITE(PTR, $000044D6)
@@ -494,7 +494,7 @@ She's always expressionless so I don't know what she's thinking, but she actuall
 <END>
 
 #WRITE(PTR, $0000450C)
-【Rintaro】What do you think? Now you should understand that the Microwave Ophone (Temp) is an honest to goodness time machine.
+【Rintaro】What do you think? Now you should understand that the PhoneWave (Temp) is an honest to goodness time machine.
 <END>
 
 #WRITE(PTR, $0000451C)

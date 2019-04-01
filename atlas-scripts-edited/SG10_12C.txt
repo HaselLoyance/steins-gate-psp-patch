@@ -106,7 +106,7 @@ What was there wasn't the Time Leap Machine.
 <END>
 
 #WRITE(PTR, $00000D3E)
-It was the Microwave Ophone (Temp).
+It was the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $00000D4E)
@@ -502,7 +502,7 @@ Yesterday, I finally gained confidence that Mayuri wouldn't die.
 <END>
 
 #WRITE(PTR, $00001F80)
-That's why I decided to dismantle the Microwave Ophone (Temp) and the IBN 5100 at the start of the day.
+That's why I decided to dismantle the PhoneWave (Temp) and the IBN 5100 at the start of the day.
 <END>
 
 #WRITE(PTR, $00001FF6)
@@ -522,7 +522,7 @@ That's why I decided to dismantle the Microwave Ophone (Temp) and the IBN 5100 a
 <END>
 
 #WRITE(PTR, $00002036)
-As for the Microwave Ophone (Temp), it's no longer needed.
+As for the PhoneWave (Temp), it's no longer needed.
 <END>
 
 #WRITE(PTR, $00002046)
@@ -546,7 +546,7 @@ So that the insane mad scientist, Hououin Kyouma, ruler of time and space, can d
 <END>
 
 #WRITE(PTR, $00002096)
-He needs to die along with the Microwave Ophone (Temp).
+He needs to die along with the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $000020A6)
@@ -562,7 +562,7 @@ I gaze again upon Future Gadget No. 8, which had been turned to scrap.
 <END>
 
 #WRITE(PTR, $0000220C)
-We can no longer bring it back to its original form. We shouldn't be able to turn this back into the Microwave Ophone (Temp).
+We can no longer bring it back to its original form. We shouldn't be able to turn this back into the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $0000221C)

@@ -222,7 +222,7 @@ And then, Kurisu suddenly starts squirming shyly.
 <END>
 
 #WRITE(PTR, $00002972)
-【Rintaro】The Microwave Ophone (Temp) wouldn't have gotten this far if I didn't have you and Daru at my side.
+【Rintaro】The PhoneWave (Temp) wouldn't have gotten this far if I didn't have you and Daru at my side.
 <END>
 
 #WRITE(PTR, $00002A20)
@@ -610,7 +610,7 @@ This is the smell of cooking?
 <END>
 
 #WRITE(PTR, $00005538)
-【Kurisu】Hm. Can I use the Microwave Ophone?
+【Kurisu】Hm. Can I use the PhoneWave?
 <END>
 
 #WRITE(PTR, $0000559C)

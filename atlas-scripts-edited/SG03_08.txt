@@ -390,7 +390,7 @@ Daru just adds to the trouble, saying that sort of drivel in front of the person
 <END>
 
 #WRITE(PTR, $00001612)
-【Itaru】Ah, yeah. I thought up some improvements to the Microwave Ophone.
+【Itaru】Ah, yeah. I thought up some improvements to the PhoneWave.
 <END>
 
 #WRITE(PTR, $00001622)
@@ -406,7 +406,7 @@ Daru just adds to the trouble, saying that sort of drivel in front of the person
 <END>
 
 #WRITE(PTR, $0000165C)
-【Itaru】I want to make it simpler. Ah, and also make it possible to forward from the Microwave Ophone's dedicated phone.
+【Itaru】I want to make it simpler. Ah, and also make it possible to forward from the PhoneWave's dedicated phone.
 <END>
 
 #WRITE(PTR, $0000166C)
@@ -414,15 +414,15 @@ Daru just adds to the trouble, saying that sort of drivel in front of the person
 <END>
 
 #WRITE(PTR, $0000167C)
-【Itaru】Right now, you can only send a D-mail to the phone attached to the Microwave Ophone, right?
+【Itaru】Right now, you can only send a D-mail to the phone attached to the PhoneWave, right?
 <END>
 
 #WRITE(PTR, $0000168C)
-That's right. In yesterday's experiments, my phone was attached to the Microwave Ophone (Temp)'s socket, so my inbox got flooded with D-mails.
+That's right. In yesterday's experiments, my phone was attached to the PhoneWave (Temp)'s socket, so my inbox got flooded with D-mails.
 <END>
 
 #WRITE(PTR, $000016A6)
-【Itaru】That's pretty inconvenient. If we give the Microwave Ophone's dedicated phone a forwarding function, then we can send D-mails to any number by means of that phone.
+【Itaru】That's pretty inconvenient. If we give the PhoneWave's dedicated phone a forwarding function, then we can send D-mails to any number by means of that phone.
 <END>
 
 #WRITE(PTR, $000016B6)
@@ -740,7 +740,7 @@ Can't you read the atmosphere, Supah Hakah-!?
 <END>
 
 #WRITE(PTR, $000022E4)
-【Rintaro】Imbecile! Because of your careless words, she found out that the Microwave Ophone (Temp) can function as a time machine!
+【Rintaro】Imbecile! Because of your careless words, she found out that the PhoneWave (Temp) can function as a time machine!
 <END>
 
 #WRITE(PTR, $000022FE)

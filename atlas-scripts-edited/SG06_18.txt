@@ -626,7 +626,7 @@ Kurisu greets the three of us when we return to the lab dead tired.
 <END>
 
 #WRITE(PTR, $00001F2E)
-【Kurisu】Okabe, there's something I want to ask you, but could you find out what the Microwave Ophone uses instead of a lifter...?
+【Kurisu】Okabe, there's something I want to ask you, but could you find out what the PhoneWave uses instead of a lifter...?
 <END2>
 
 #WRITE(PTR, $00001F48)

@@ -70,7 +70,7 @@ I redial in irritation.
 <END>
 
 #WRITE(PTR, $000007CC)
-【Rintaro】This is Okabe Rintaro, sorry, but could you tamper with the Microwave Ophone (Temp)'s settings a little, please?
+【Rintaro】This is Okabe Rintaro, sorry, but could you tamper with the PhoneWave (Temp)'s settings a little, please?
 <END>
 
 #WRITE(PTR, $000007E8)
@@ -78,7 +78,7 @@ I redial in irritation.
 <END>
 
 #WRITE(PTR, $000007F8)
-【Kurisu】Hm-, but you're going to use the Microwave Ophone? I don't want to anger the Braun Tube Workshop manager, though.
+【Kurisu】Hm-, but you're going to use the PhoneWave? I don't want to anger the Braun Tube Workshop manager, though.
 <END>
 
 #WRITE(PTR, $00000814)
@@ -118,7 +118,7 @@ I turn to Faris.
 <END>
 
 #WRITE(PTR, $0000091A)
-I already told Faris the mail address for the Microwave Ophone (Temp)'s dedicated phone.
+I already told Faris the mail address for the PhoneWave (Temp)'s dedicated phone.
 <END>
 
 #WRITE(PTR, $00000934)
@@ -218,7 +218,7 @@ I thought I had Faris in the palm of my hand, but the twist was that I was in he
 <END>
 
 #WRITE(PTR, $00000BC4)
-【Rintaro】W-wait...! Okay, activate... the Microwave Ophone (Temp)....
+【Rintaro】W-wait...! Okay, activate... the PhoneWave (Temp)....
 <END>
 
 #WRITE(PTR, $00000BD4)

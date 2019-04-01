@@ -622,7 +622,7 @@ I said nothing to Faris' back as she went to her father's study.
 <END>
 
 #WRITE(PTR, $00001062)
-When Faris finishes her farewells with her father and comes out of the study, the Microwave Ophone (Temp)'s settings are already complete.
+When Faris finishes her farewells with her father and comes out of the study, the PhoneWave (Temp)'s settings are already complete.
 <END>
 
 #WRITE(PTR, $00001072)

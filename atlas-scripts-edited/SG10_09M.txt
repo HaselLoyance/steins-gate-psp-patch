@@ -18,7 +18,7 @@ That's when I first had confidence that everything's alright now.
 <END>
 
 #WRITE(PTR, $00000210)
-With Daru's help, I disassembled the Microwave Ophone (Temp) and the IBN 5100 into scrap. With this, we can no longer send D-mails ever again.
+With Daru's help, I disassembled the PhoneWave (Temp) and the IBN 5100 into scrap. With this, we can no longer send D-mails ever again.
 <END>
 
 #WRITE(PTR, $00000220)

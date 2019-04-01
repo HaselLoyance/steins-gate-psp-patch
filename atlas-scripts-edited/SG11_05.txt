@@ -138,7 +138,7 @@ It doesn't feel real.
 <END>
 
 #WRITE(PTR, $00000838)
-【Rintaro2】Upon reaching this β World Line, you dismantled the Microwave Ophone (Temp). Correct? But I... you will, in not even one year, turn back to time travel theory.
+【Rintaro2】Upon reaching this β World Line, you dismantled the PhoneWave (Temp). Correct? But I... you will, in not even one year, turn back to time travel theory.
 <END>
 
 #WRITE(PTR, $00000848)

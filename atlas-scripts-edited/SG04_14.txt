@@ -22,7 +22,7 @@
 <END>
 
 #WRITE(PTR, $000003D8)
-【Mayuri】Uhm, there's that mail you sent when we first realized that Microwave Ophone-chan was a time machine, right-?
+【Mayuri】Uhm, there's that mail you sent when we first realized that PhoneWave-chan was a time machine, right-?
 <END>
 
 #WRITE(PTR, $000004B4)

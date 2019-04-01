@@ -110,7 +110,7 @@ I was quite irritated that information on pagers was fairly scarce, but that's m
 <END>
 
 #WRITE(PTR, $00000BD4)
-We explain to Lukako the function of the Microwave Ophone (Temp).
+We explain to Lukako the function of the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $00000C78)
@@ -297,7 +297,7 @@ The random and lengthy string of numbers is complete.
 <END>
 
 #WRITE(PTR, $000020EC)
-Now we just activate the Microwave Ophone (Temp) and have Lukako call.
+Now we just activate the PhoneWave (Temp) and have Lukako call.
 <END>
 
 #WRITE(PTR, $000020FC)
@@ -317,7 +317,7 @@ Lukako's slender finger starts to tremble on top of the enter button.
 <END>
 
 #WRITE(PTR, $00002174)
-We're entering the time frame for the Microwave Ophone (Temp) to start the discharge phenomenon.
+We're entering the time frame for the PhoneWave (Temp) to start the discharge phenomenon.
 <END>
 
 #WRITE(PTR, $0000219E)
@@ -441,7 +441,7 @@ Everyone, including Lukako, looks at me bewildered.
 <END>
 
 #WRITE(PTR, $00002CA4)
-【Rintaro】What you say? Is every last one of you growing senile? Just now, we used the Microwave Ophone (Temp) to--
+【Rintaro】What you say? Is every last one of you growing senile? Just now, we used the PhoneWave (Temp) to--
 <END>
 
 #WRITE(PTR, $00002D42)

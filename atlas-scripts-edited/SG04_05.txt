@@ -114,7 +114,7 @@ Kurisu peeks at my phone from beside.
 <END>
 
 #WRITE(PTR, $00000CA8)
-【Kurisu】I-it's not like I'm agreeing with you. If we don't collect data, then no matter how much time passes, we won't figure out the structure of the Microwave Ophone.
+【Kurisu】I-it's not like I'm agreeing with you. If we don't collect data, then no matter how much time passes, we won't figure out the structure of the PhoneWave.
 <END>
 
 #WRITE(PTR, $00000D26)
@@ -426,7 +426,7 @@ We set the timer to 100 seconds. With this, we should be able to send it to Moek
 <END>
 
 #WRITE(PTR, $0000190E)
-【Rintaro】Microwave Ophone (Temp), activate!
+【Rintaro】PhoneWave (Temp), activate!
 <END>
 
 #WRITE(PTR, $00001BC4)

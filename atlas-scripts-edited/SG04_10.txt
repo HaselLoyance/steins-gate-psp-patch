@@ -78,7 +78,7 @@ Mm, no good, you're thinking negatively.
 <END>
 
 #WRITE(PTR, $00001344)
-【Rintaro】That Microwave Ophone (Temp) will someday be improved so that humans may use it to send things towards the future. I'll improve it. No, I must improve it!
+【Rintaro】That PhoneWave (Temp) will someday be improved so that humans may use it to send things towards the future. I'll improve it. No, I must improve it!
 <END>
 
 #WRITE(PTR, $000013E8)

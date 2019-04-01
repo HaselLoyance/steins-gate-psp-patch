@@ -206,7 +206,7 @@ Mayuri, nice comeback.
 <END>
 
 #WRITE(PTR, $000023CE)
-【Mayuri】Okarin, Okarin, at this hour, Microwave Ophone-chan won't get all shocky, right-?
+【Mayuri】Okarin, Okarin, at this hour, PhoneWave-chan won't get all shocky, right-?
 <END>
 
 #WRITE(PTR, $0000247C)

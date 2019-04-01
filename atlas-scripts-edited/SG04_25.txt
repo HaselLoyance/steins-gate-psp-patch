@@ -366,7 +366,7 @@ With a snap, I point behind the curtain to the development room.
 <END>
 
 #WRITE(PTR, $00001C70)
-【Itaru】But the Microwave Ophone's discharge phenomenon won't occur at this hour, will it?
+【Itaru】But the PhoneWave's discharge phenomenon won't occur at this hour, will it?
 <END>
 
 #WRITE(PTR, $00001C80)
@@ -446,7 +446,7 @@ You must fight as my piece in Ragnarok. You won't get away with independent acti
 <END>
 
 #WRITE(PTR, $0000213C)
-At the strike of 12, I activate the Microwave Ophone (Temp).
+At the strike of 12, I activate the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $0000214C)
@@ -694,7 +694,7 @@ Maybe that has something to do with the disappearance of her father.
 <END>
 
 #WRITE(PTR, $00003196)
-【Rintaro】By the way, the Microwave Ophone (Temp) used in the experiment is our lab's top secret item, so we'll have you become a lab mem to prevent information leaks to the outside.
+【Rintaro】By the way, the PhoneWave (Temp) used in the experiment is our lab's top secret item, so we'll have you become a lab mem to prevent information leaks to the outside.
 <END>
 
 #WRITE(PTR, $000031A6)

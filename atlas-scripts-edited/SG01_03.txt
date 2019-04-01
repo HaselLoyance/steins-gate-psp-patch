@@ -191,11 +191,11 @@ All of these are up for public display in the website that Daru made so go ahead
 <END>
 
 #WRITE(PTR, $000007E4)
-Now that I'm done looking through our past creations let's return to the problems concerning the Future Gadget #8 the "Microwave Ophone (Temp)".
+Now that I'm done looking through our past creations let's return to the problems concerning the Future Gadget #8 the "PhoneWave (Temp)".
 <END>
 
 #WRITE(PTR, $000007F4)
-Due to it being tasteless I plan to change the name into something more refined, thus the "(Temp)" part. It was Mayuri who gave it the name "Microwave Ophone".
+Due to it being tasteless I plan to change the name into something more refined, thus the "(Temp)" part. It was Mayuri who gave it the name "PhoneWave".
 <END>
 
 #WRITE(PTR, $00000804)
@@ -223,7 +223,7 @@ But let's ignore the name for now.
 <END>
 
 #WRITE(PTR, $00000864)
-The "Microwave Ophone (Temp)" is a dream invention which allows remote control of a microwave oven by connecting it to a cellphone.
+The "PhoneWave (Temp)" is a dream invention which allows remote control of a microwave oven by connecting it to a cellphone.
 <END>
 
 #WRITE(PTR, $00000874)
@@ -235,11 +235,11 @@ I guess this example doesn't make it seem very useful...
 <END>
 
 #WRITE(PTR, $00000894)
-However a few days ago we discovered that the Microwave Ophone (Temp) has a strange function which is outside of what we planned.
+However a few days ago we discovered that the PhoneWave (Temp) has a strange function which is outside of what we planned.
 <END>
 
 #WRITE(PTR, $000008A4)
-Our nonchalant girl Mayuri was going to warm up her daily dose of fried food and decided to use the remote control function of the Microwave Ophone (Temp).
+Our nonchalant girl Mayuri was going to warm up her daily dose of fried food and decided to use the remote control function of the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $000008B4)
@@ -251,7 +251,7 @@ In short the fried food "froze" instead of being warmed up.
 <END>
 
 #WRITE(PTR, $000008D4)
-It was already in a semi-defrosted condition when it was put in the Microwave Ophone (Temp).
+It was already in a semi-defrosted condition when it was put in the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $000008E4)
@@ -307,7 +307,7 @@ I call out to Mayuri who is sewing something as usual.
 <END>
 
 #WRITE(PTR, $00000B54)
-I put the whole bunch of bananas that Mayuri brought into the Microwave Ophone (Temp).
+I put the whole bunch of bananas that Mayuri brought into the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $00000B9C)
@@ -331,7 +331,7 @@ This time however I shall magnificently ignore the grumbles of the hungry girl.
 <END>
 
 #WRITE(PTR, $00000C7E)
-The Microwave Ophone (Temp) is extremely simple to operate.
+The PhoneWave (Temp) is extremely simple to operate.
 <END>
 
 #WRITE(PTR, $00000C9C)
@@ -352,7 +352,7 @@ I look through the pockets of my trousers and lab coat.
 
 #WRITE(PTR, $00000D74)
 Press a button to bring up your %CF8FF8【Phone】%CE<LINE>
-Then dial %CF8FF8【Microwave Ophone (Temp)】%CE<LINE>
+Then dial %CF8FF8【PhoneWave (Temp)】%CE<LINE>
 <LINE>
 You can check your button configuration in the MANUAL menu.
 <END2>
@@ -367,7 +367,7 @@ An instant connection.
 
 #WRITE(PTR, $00000F16)
 【Mayuri2】
-R-E-N-G. This is the Microwave Ophone (Temp).
+R-E-N-G. This is the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $00000F32)
@@ -403,7 +403,7 @@ What came out was guidance voiced by Mayuri.
 <END>
 
 #WRITE(PTR, $0000101E)
-Entering what the guidance says will cause the Microwave Ophone (Temp) to begin heating with no problems.
+Entering what the guidance says will cause the PhoneWave (Temp) to begin heating with no problems.
 <END>
 
 #WRITE(PTR, $0000102E)
@@ -411,7 +411,7 @@ In this case however anything besides "120#" will not work.
 <END>
 
 #WRITE(PTR, $00001070)
-Once I enter the symbols the Microwave Ophone (Temp) begins working emitting a low buzzing sound.
+Once I enter the symbols the PhoneWave (Temp) begins working emitting a low buzzing sound.
 <END>
 
 #WRITE(PTR, $000010B8)
@@ -455,7 +455,7 @@ It was originally just a mistake that Mayuri made but for some reason this input
 <END>
 
 #WRITE(PTR, $000011EC)
-Microwave Ophone (Temp) starts working.
+PhoneWave (Temp) starts working.
 <END>
 
 #WRITE(PTR, $000011FC)
@@ -527,7 +527,7 @@ The whole bunch is like that.
 <END>
 
 #WRITE(PTR, $000013F8)
-After Mayuri discovered that the Microwave Ophone (Temp) has a freezing function we made an experiment in which we tried to freeze a banana.
+After Mayuri discovered that the PhoneWave (Temp) has a freezing function we made an experiment in which we tried to freeze a banana.
 <END>
 
 #WRITE(PTR, $00001408)

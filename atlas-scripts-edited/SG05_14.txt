@@ -202,7 +202,7 @@ Kurisu's also making an awkward face.
 <END>
 
 #WRITE(PTR, $00000716)
-I look at the improved Microwave Ophone (Temp) again.
+I look at the improved PhoneWave (Temp) again.
 <END>
 
 #WRITE(PTR, $0000076A)
@@ -230,11 +230,11 @@ It looks cheap, but I can turn a blind eye to that much.
 <END>
 
 #WRITE(PTR, $000007EC)
-【Itaru】Microwave Ophone 3rd Edition ver1.00
+【Itaru】PhoneWave 3rd Edition ver1.00
 <END>
 
 #WRITE(PTR, $00000806)
-【Mayuri】Silly Hat Microwave Ophone-chan
+【Mayuri】Silly Hat PhoneWave-chan
 <END>
 
 #WRITE(PTR, $00000816)
@@ -310,7 +310,7 @@ That's the lab's silent agreement.
 <END>
 
 #WRITE(PTR, $00000990)
-【Mayuri】Silly Hat Microwave Ophone-chan's a super close second, though.
+【Mayuri】Silly Hat PhoneWave-chan's a super close second, though.
 <END>
 
 #WRITE(PTR, $000009A0)
@@ -350,7 +350,7 @@ Kurisu nods and stands in front of the whiteboard.
 <END>
 
 #WRITE(PTR, $00000A98)
-【Kurisu】The Microwave Ophone coincidentally has the same function as the time machine Titor talked about.
+【Kurisu】The PhoneWave coincidentally has the same function as the time machine Titor talked about.
 <END>
 
 #WRITE(PTR, $00000AA8)
@@ -370,7 +370,7 @@ Kurisu nods and stands in front of the whiteboard.
 <END>
 
 #WRITE(PTR, $00000AE8)
-What she's explained so far is the Microwave Ophone (Temp)'s function.
+What she's explained so far is the PhoneWave (Temp)'s function.
 <END>
 
 #WRITE(PTR, $00000AF8)
@@ -378,7 +378,7 @@ Now comes the explanation for Kurisu's improvements.
 <END>
 
 #WRITE(PTR, $00000B16)
-【Kurisu】The Microwave Ophone now has headgear attached.
+【Kurisu】The PhoneWave now has headgear attached.
 <END>
 
 #WRITE(PTR, $00000B3C)
@@ -462,7 +462,7 @@ That's like a contortionist trick.
 <END>
 
 #WRITE(PTR, $00000CC2)
-【Itaru】During that time, it must return from the LHC to the Microwave Ophone through this X68000 or else.
+【Itaru】During that time, it must return from the LHC to the PhoneWave through this X68000 or else.
 <END>
 
 #WRITE(PTR, $00000CD2)
@@ -482,7 +482,7 @@ That's like a contortionist trick.
 <END>
 
 #WRITE(PTR, $00000D20)
-【Kurisu】This part is the same as the Microwave Ophone.
+【Kurisu】This part is the same as the PhoneWave.
 <END>
 
 #WRITE(PTR, $00000D30)

@@ -881,7 +881,7 @@ Even though she was so against time machines in her ATF lecture!
 <END>
 
 #WRITE(PTR, $00002E32)
-No, wait, she was more against the Microwave Ophone (Temp)...
+No, wait, she was more against the PhoneWave (Temp)...
 <END>
 
 #WRITE(PTR, $00002E42)

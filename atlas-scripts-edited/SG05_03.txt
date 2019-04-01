@@ -447,7 +447,7 @@ Solution? To what?
 <END>
 
 #WRITE(PTR, $00000D66)
-【Kurisu】I'm talking about the Microwave Ophone's mechanism.
+【Kurisu】I'm talking about the PhoneWave's mechanism.
 <END>
 
 #WRITE(PTR, $00000D76)
@@ -467,7 +467,7 @@ Kurisu nods while keeping her serious expression.
 <END>
 
 #WRITE(PTR, $00000DB6)
-【Rintaro】The LHC is the world's largest Microwave Ophone. I cite that example from you, Christina.
+【Rintaro】The LHC is the world's largest PhoneWave. I cite that example from you, Christina.
 <END>
 
 #WRITE(PTR, $00000DC6)
@@ -475,7 +475,7 @@ Kurisu nods while keeping her serious expression.
 <END>
 
 #WRITE(PTR, $00000DD6)
-【Kurisu】The Microwave Ophone is an unthinkable monster.
+【Kurisu】The PhoneWave is an unthinkable monster.
 <END>
 
 #WRITE(PTR, $00000DE6)
@@ -503,11 +503,11 @@ Daru and I nod. Mayuri shakes her head.
 <END>
 
 #WRITE(PTR, $00000E50)
-When we first discovered the abnormality of the Microwave Ophone (Temp), we looked into that.
+When we first discovered the abnormality of the PhoneWave (Temp), we looked into that.
 <END>
 
 #WRITE(PTR, $00000E60)
-【Kurisu】The generated waves are electromagnetic at a frequency of 2.45GHz. The microwave used in the Microwave Ophone outputs around 1500-2000W.
+【Kurisu】The generated waves are electromagnetic at a frequency of 2.45GHz. The microwave used in the PhoneWave outputs around 1500-2000W.
 <END>
 
 #WRITE(PTR, $00000E70)
@@ -515,7 +515,7 @@ When we first discovered the abnormality of the Microwave Ophone (Temp), we look
 <END>
 
 #WRITE(PTR, $00000E80)
-According to Kurisu, the problem with the Microwave Ophone (Temp) is that its electromagnetic waves, and the electromagnetic waves used in cellphone transmissions--
+According to Kurisu, the problem with the PhoneWave (Temp) is that its electromagnetic waves, and the electromagnetic waves used in cellphone transmissions--
 <END>
 
 #WRITE(PTR, $00000E90)
@@ -571,7 +571,7 @@ What happens when you fuse both of the waves?
 <END>
 
 #WRITE(PTR, $00000F68)
-【Itaru】Seriously? Then isn't the Microwave Ophone a weapon of mass destruction!?
+【Itaru】Seriously? Then isn't the PhoneWave a weapon of mass destruction!?
 <END>
 
 #WRITE(PTR, $00000F78)
@@ -579,7 +579,7 @@ I-is it really that unthinkable...?
 <END>
 
 #WRITE(PTR, $00000F88)
-【Kurisu】I'll teach you about what happens inside that Microwave Ophone.
+【Kurisu】I'll teach you about what happens inside that PhoneWave.
 <END>
 
 #WRITE(PTR, $00000F98)
@@ -611,7 +611,7 @@ Literally the same as the LHC...!
 <END>
 
 #WRITE(PTR, $00001008)
-【Rintaro】Then does the Microwave Ophone (Temp) also produce mini-black holes as well!?
+【Rintaro】Then does the PhoneWave (Temp) also produce mini-black holes as well!?
 <END>
 
 #WRITE(PTR, $00001018)
@@ -635,7 +635,7 @@ Doesn't deny it.
 <END>
 
 #WRITE(PTR, $0000122C)
-【Kurisu】But it doesn't seem like that with the Microwave Ophone. That's clear from how it turns bananas and karaage into Jellymen.
+【Kurisu】But it doesn't seem like that with the PhoneWave. That's clear from how it turns bananas and karaage into Jellymen.
 <END>
 
 #WRITE(PTR, $000012D0)
@@ -655,7 +655,7 @@ Doesn't deny it.
 <END>
 
 #WRITE(PTR, $00001560)
-【Kurisu】Something's substituting the lifter somewhere in the Microwave Ophone.
+【Kurisu】Something's substituting the lifter somewhere in the PhoneWave.
 <END>
 
 #WRITE(PTR, $00001604)
@@ -671,7 +671,7 @@ So in the end, is that where the problem leads?
 <END>
 
 #WRITE(PTR, $000017FA)
-Kurisu's explanation does nothing but prove that our vague hypothesis that the Microwave Ophone (Temp) is same as the LHC isn't incorrect.
+Kurisu's explanation does nothing but prove that our vague hypothesis that the PhoneWave (Temp) is same as the LHC isn't incorrect.
 <END>
 
 #WRITE(PTR, $0000189E)
@@ -715,7 +715,7 @@ This is our LHC moe guy, Daru's time to shine.
 <END>
 
 #WRITE(PTR, $00001A38)
-【Itaru】At the end, they reach up to 99.9999991％ of the speed of light. The LHC's dangerous. Not the same level as the Microwave Ophone, though.
+【Itaru】At the end, they reach up to 99.9999991％ of the speed of light. The LHC's dangerous. Not the same level as the PhoneWave, though.
 <END>
 
 #WRITE(PTR, $00001A48)
@@ -731,7 +731,7 @@ That's about how much we reviewed.
 <END>
 
 #WRITE(PTR, $00001B36)
-【Rintaro】And that's where I'd like to hear from all of you lab mem ladies and gentlemen. Can our Microwave Ophone (Temp) forestall SERN's physical time travel or not?
+【Rintaro】And that's where I'd like to hear from all of you lab mem ladies and gentlemen. Can our PhoneWave (Temp) forestall SERN's physical time travel or not?
 <END>
 
 #WRITE(PTR, $00001B46)
@@ -755,7 +755,7 @@ I have no objection at all to that.
 <END>
 
 #WRITE(PTR, $00001B96)
-【Kurisu】I don't think we can find it. I've already searched the small interior of the Microwave Ophone for days without finding a hint.
+【Kurisu】I don't think we can find it. I've already searched the small interior of the PhoneWave for days without finding a hint.
 <END>
 
 #WRITE(PTR, $00001BA6)
@@ -787,7 +787,7 @@ Just then, a certain idea flashed into mind.
 <END>
 
 #WRITE(PTR, $00001C16)
-【Rintaro】It's the same thing with the Microwave Ophone (Temp). The amount of data that can be safely sent without turning into a Jellyman is just 36 bytes + α.
+【Rintaro】It's the same thing with the PhoneWave (Temp). The amount of data that can be safely sent without turning into a Jellyman is just 36 bytes + α.
 <END>
 
 #WRITE(PTR, $00001C26)
@@ -1075,7 +1075,7 @@ Of course, she didn't accomplish it by herself. She did have the cooperation of 
 <END>
 
 #WRITE(PTR, $000022A6)
-【Rintaro】Send that data through the Kerr black hole ring singularities formed by the Microwave Ophone (Temp)--
+【Rintaro】Send that data through the Kerr black hole ring singularities formed by the PhoneWave (Temp)--
 <END>
 
 #WRITE(PTR, $000022B6)

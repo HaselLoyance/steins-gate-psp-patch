@@ -154,7 +154,7 @@ Then I take out my phone.
 <END>
 
 #WRITE(PTR, $00000C86)
-【Rintaro】Christina... please enter the number I'm about to say into the Microwave Ophone (Temp).
+【Rintaro】Christina... please enter the number I'm about to say into the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $00000CA2)
@@ -214,7 +214,7 @@ Once I get confirmation that the 42in Braun tube TV is on, I hang up.
 <END>
 
 #WRITE(PTR, $00000DA2)
-Now I just need to call the Microwave Ophone (Temp).
+Now I just need to call the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $00000DB2)
@@ -486,7 +486,7 @@ And, those fingers, are wraped up in Lukako's warm hand.
 <END>
 
 #WRITE(PTR, $000018D4)
-Now if I just call the Microwave Ophone (Temp), I can send a message to Luka's mother's pager before she's born.
+Now if I just call the PhoneWave (Temp), I can send a message to Luka's mother's pager before she's born.
 <END>
 
 #WRITE(PTR, $000018F2)

@@ -542,7 +542,7 @@ Or rather, why did she suddenly snap? Shouldn't she be apologizing to me instead
 <END>
 
 #WRITE(PTR, $00000DD4)
-【Kurisu】Then, once we're done with the Microwave Ophone's improvements--
+【Kurisu】Then, once we're done with the PhoneWave's improvements--
 <END>
 
 #WRITE(PTR, $00000DEE)

@@ -741,7 +741,7 @@ And something very soft...
 <END>
 
 #WRITE(PTR, $000055E0)
-【Itaru】Hey, Okarin, you jerk-! I made the Microwave Ophone too-!
+【Itaru】Hey, Okarin, you jerk-! I made the PhoneWave too-!
 <END>
 
 #WRITE(PTR, $00005634)
@@ -893,11 +893,11 @@ She seems rushed...
 <END>
 
 #WRITE(PTR, $00005A68)
-【Rintaro】The time machine-- accurately speaking, the Microwave Ophone (Temp), is in our lab
+【Rintaro】The time machine-- accurately speaking, the PhoneWave (Temp), is in our lab
 <END>
 
 #WRITE(PTR, $00005A90)
-Let's try applying the Microwave Ophone's original purpose this time.
+Let's try applying the PhoneWave's original purpose this time.
 <END>
 
 #WRITE(PTR, $00005AA0)
@@ -909,7 +909,7 @@ Kurisu's watching over the lab.
 <END>
 
 #WRITE(PTR, $00005B4E)
-I guess we'll leave the Microwave Ophone (Temp)'s setup to that assistant of mine.
+I guess we'll leave the PhoneWave (Temp)'s setup to that assistant of mine.
 <END>
 
 #WRITE(PTR, $00005B96)
@@ -929,7 +929,7 @@ It has to be on at 8AM that day, so we use a calculator on the net to factor in 
 <END>
 
 #WRITE(PTR, $00005C68)
-【Mayuri】Microwave Ophone-chan won't get tired-?
+【Mayuri】PhoneWave-chan won't get tired-?
 <END>
 
 #WRITE(PTR, $00005C78)

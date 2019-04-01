@@ -394,11 +394,11 @@ Strange woman.
 <END>
 
 #WRITE(PTR, $00001E9E)
-【Kurisu】M-more importantly, how was the Microwave Ophone!?
+【Kurisu】M-more importantly, how was the PhoneWave!?
 <END>
 
 #WRITE(PTR, $00001EAE)
-【Rintaro】Why are you that interested? By the way, it's not the Microwave Ophone, it's the Microwave Ophone (Temp)--
+【Rintaro】Why are you that interested? By the way, it's not the PhoneWave, it's the PhoneWave (Temp)--
 <END>
 
 #WRITE(PTR, $00001EC8)
@@ -546,7 +546,7 @@ So was that a dream or an illusion after all...?
 <END>
 
 #WRITE(PTR, $0000255E)
-【Rintaro】So, about the Microwave Ophone (Temp).
+【Rintaro】So, about the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $0000258A)
@@ -814,7 +814,7 @@ Christina's calm nature saves me.
 <END>
 
 #WRITE(PTR, $00002B48)
-【Kurisu】...Anyway, the Microwave Ophone isn't a time machine.
+【Kurisu】...Anyway, the PhoneWave isn't a time machine.
 <END>
 
 #WRITE(PTR, $00002B58)
@@ -938,7 +938,7 @@ I'll just leave it at that for now.
 <END>
 
 #WRITE(PTR, $00003002)
-【Rintaro】If that's the case, that solves the riddle of the Microwave Ophone (Temp). If it's an illusion, then it could possibly disregard the laws of physics.
+【Rintaro】If that's the case, that solves the riddle of the PhoneWave (Temp). If it's an illusion, then it could possibly disregard the laws of physics.
 <END>
 
 #WRITE(PTR, $0000301C)
@@ -990,7 +990,7 @@ That one time we talked was during the events of the illusion, so the only infor
 <END>
 
 #WRITE(PTR, $000030F0)
-【Rintaro】What do you want? You want me to go back to the past and handle your corpse courteously? I'd need to use the Microwave Ophone (Temp) for that, though.
+【Rintaro】What do you want? You want me to go back to the past and handle your corpse courteously? I'd need to use the PhoneWave (Temp) for that, though.
 <END>
 
 #WRITE(PTR, $00003100)

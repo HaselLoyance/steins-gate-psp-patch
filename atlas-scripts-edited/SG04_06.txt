@@ -86,7 +86,7 @@ I look around the room.
 <END>
 
 #WRITE(PTR, $000003F0)
-The Microwave Ophone (Temp), which should have about 90 seconds left on its timer, is not in operation.
+The PhoneWave (Temp), which should have about 90 seconds left on its timer, is not in operation.
 <END>
 
 #WRITE(PTR, $00000492)
@@ -482,7 +482,7 @@ Even though a person's existence may have disappeared from the world...!
 <END>
 
 #WRITE(PTR, $000015EE)
-In fact, if Moeka really did vanish, then at the same time, that means that our creation, the Microwave Ophone (Temp) is also responsible for that mass disappearance phenomenon.
+In fact, if Moeka really did vanish, then at the same time, that means that our creation, the PhoneWave (Temp) is also responsible for that mass disappearance phenomenon.
 <END>
 
 #WRITE(PTR, $000015FE)

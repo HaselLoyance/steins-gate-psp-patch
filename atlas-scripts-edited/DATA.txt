@@ -46,7 +46,7 @@ Daru
 <END2>
 
 #WRITE(PTR, $00000168)
-Microwave Ophone(Temp)
+PhoneWave (Temp)
 <END2>
 
 #WRITE(PTR, $0000016C)
@@ -481,7 +481,7 @@ Assistant
 <END2>
 
 #WRITE(PTR, $000005EC)
-This is about the Microwave Ophone's improvements, but did you forget what we said about finding out what's acting as a lifter? We can't complete the Time Leap Machine unless we settle that. You do want me to finish after one day, don't you?
+This is about the PhoneWave's improvements, but did you forget what we said about finding out what's acting as a lifter? We can't complete the Time Leap Machine unless we settle that. You do want me to finish after one day, don't you?
 <END2>
 
 #WRITE(PTR, $00000604)
@@ -4263,7 +4263,7 @@ Assistant
 <END2>
 
 #WRITE(PTR, $00002D4C)
-What acts in place of the lifter is the 42 type Braun Tube TV downstairs. When it's turned on, the Microwave Ophone (Temp)'s electrical discharge phenomenon occurs. So you can keep working on the improvements without any worry.
+What acts in place of the lifter is the 42 type Braun Tube TV downstairs. When it's turned on, the PhoneWave (Temp)'s electrical discharge phenomenon occurs. So you can keep working on the improvements without any worry.
 <END2>
 
 #WRITE(PTR, $00002D64)
@@ -5125,7 +5125,7 @@ Don't go to shrine! Trap! No goods!
 <DUMMY>
 
 #WRITE(PTR, $000036C8)
-Microwave Ophone (Temp)
+PhoneWave (Temp)
 <END2>
 
 #WRITE(PTR, $000036CC)
@@ -5136,7 +5136,7 @@ Microwave Ophone (Temp)
 <DUMMY>
 
 #WRITE(PTR, $000036E8)
-Microwave Ophone (Temp)
+PhoneWave (Temp)
 <END2>
 
 #WRITE(PTR, $000036EC)
@@ -5147,7 +5147,7 @@ Don’t listen to Cris, pursue Suzuha!
 <DUMMY>
 
 #WRITE(PTR, $00003708)
-Microwave Ophone (Temp)
+PhoneWave (Temp)
 <END2>
 
 #WRITE(PTR, $0000370C)
@@ -5158,7 +5158,7 @@ Don’t listen to Cris, pursue Suzuha!
 <DUMMY>
 
 #WRITE(PTR, $00003728)
-Microwave Ophone (Temp)
+PhoneWave (Temp)
 <END2>
 
 #WRITE(PTR, $0000372C)
@@ -5168,7 +5168,7 @@ Microwave Ophone (Temp)
 <DUMMY>
 
 #WRITE(PTR, $00003748)
-Microwave Ophone (Temp)
+PhoneWave (Temp)
 <END2>
 
 #WRITE(PTR, $0000374C)
@@ -5179,7 +5179,7 @@ Cancel pursu
 <DUMMY>
 
 #WRITE(PTR, $00003768)
-Microwave Ophone (Temp)
+PhoneWave (Temp)
 <END2>
 
 #WRITE(PTR, $0000376C)
@@ -5190,7 +5190,7 @@ Cancel pursuit. Last mai
 <DUMMY>
 
 #WRITE(PTR, $00003788)
-Microwave Ophone (Temp)
+PhoneWave (Temp)
 <END2>
 
 #WRITE(PTR, $0000378C)
@@ -5853,7 +5853,7 @@ Do you have a daughter named Suzuha? Or, do you know someone named Barrel Titor?
 <DUMMY>
 
 #WRITE(PTR, $00003DE8)
-Microwave Ophone (Temp)
+PhoneWave (Temp)
 <END2>
 
 #WRITE(PTR, $00003DEC)

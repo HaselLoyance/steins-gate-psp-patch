@@ -90,7 +90,7 @@ After I told that to Kurisu, that was her first response.
 <END>
 
 #WRITE(PTR, $00000562)
-【Rintaro】Just now, when the Microwave Ophone (Temp) on the second floor shook the building, the 42in Braun tube TV was on.
+【Rintaro】Just now, when the PhoneWave (Temp) on the second floor shook the building, the 42in Braun tube TV was on.
 <END>
 
 #WRITE(PTR, $00000572)
@@ -134,7 +134,7 @@ Thus, it seems appropriate as the replacement for the lifter.
 <END>
 
 #WRITE(PTR, $00000666)
-【Kurisu】The electrons emitted by the 42in Braun tube TV interfere with the singular points produced by the Microwave Ophone.
+【Kurisu】The electrons emitted by the 42in Braun tube TV interfere with the singular points produced by the PhoneWave.
 <END>
 
 #WRITE(PTR, $00000676)
@@ -142,7 +142,7 @@ Thus, it seems appropriate as the replacement for the lifter.
 <END>
 
 #WRITE(PTR, $00000690)
-【Itaru】The reason we couldn't use the Microwave Ophone at night was because that's when the Braun Tube Workshop's closed, then?
+【Itaru】The reason we couldn't use the PhoneWave at night was because that's when the Braun Tube Workshop's closed, then?
 <END>
 
 #WRITE(PTR, $000006A0)
@@ -150,7 +150,7 @@ The Braun Tube Workshop doesn't have especially strict business hours, but it's 
 <END>
 
 #WRITE(PTR, $000006B0)
-The Microwave Ophone (Temp) time rule I came up with-- we can use it about noon to six-- matches up perfectly.
+The PhoneWave (Temp) time rule I came up with-- we can use it about noon to six-- matches up perfectly.
 <END>
 
 #WRITE(PTR, $000006C0)
@@ -206,7 +206,7 @@ Mayuri halts her costume making and tilts her head.
 <END>
 
 #WRITE(PTR, $000007C2)
-【Mayuri】So, basically, what do we have to do to complete Super Microwave Ophone-chan-?
+【Mayuri】So, basically, what do we have to do to complete Super PhoneWave-chan-?
 <END>
 
 #WRITE(PTR, $000007DC)

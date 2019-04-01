@@ -126,11 +126,11 @@ I'm in the lab development room.
 <END>
 
 #WRITE(PTR, $0000086A)
-I'm standing in front of the Microwave Ophone (Temp) with my phone to my ear.
+I'm standing in front of the PhoneWave (Temp) with my phone to my ear.
 <END>
 
 #WRITE(PTR, $0000087A)
-No, it's not the Microwave Ophone (Temp). Since headgear is attached to it, it's the Time Leap Machine.
+No, it's not the PhoneWave (Temp). Since headgear is attached to it, it's the Time Leap Machine.
 <END>
 
 #WRITE(PTR, $0000088A)

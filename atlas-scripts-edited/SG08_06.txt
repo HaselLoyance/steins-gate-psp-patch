@@ -786,7 +786,7 @@ When I'm done, Kurisu is standing before me.
 <END>
 
 #WRITE(PTR, $00002804)
-She's tampering with the wiring on the Microwave Ophone (Temp).
+She's tampering with the wiring on the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $00002814)

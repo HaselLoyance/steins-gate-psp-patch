@@ -6,7 +6,7 @@
 #JMP($00001BEE)
 
 #WRITE(PTR, $00000644)
-We immediately started the D-mail experiment, and even though it's before noon, the Microwave Ophone (Temp)'s discharge phenomenon still broke out.
+We immediately started the D-mail experiment, and even though it's before noon, the PhoneWave (Temp)'s discharge phenomenon still broke out.
 <END>
 
 #WRITE(PTR, $00000654)
@@ -199,7 +199,7 @@ Now we just pray that Mayuri will be inclined to choose cup oden.
 <END>
 
 #WRITE(PTR, $00001522)
-We wait for Mayuri to finish eating her cup ramen and activate the Microwave Ophone (Temp).
+We wait for Mayuri to finish eating her cup ramen and activate the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $00001532)
@@ -215,7 +215,7 @@ This is another first challenge for this experiment.
 <END>
 
 #WRITE(PTR, $00001562)
-【Rintaro】Microwave Ophone (Temp), activate!
+【Rintaro】PhoneWave (Temp), activate!
 <END>
 
 #WRITE(PTR, $00001638)

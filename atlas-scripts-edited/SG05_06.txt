@@ -18,11 +18,11 @@ Kurisu designated everything.
 <END>
 
 #WRITE(PTR, $0000022A)
-Things necessary to upgrade the Microwave Ophone (Temp) from a device which can send mails across time to a time leap device. I'm paying the bill.
+Things necessary to upgrade the PhoneWave (Temp) from a device which can send mails across time to a time leap device. I'm paying the bill.
 <END>
 
 #WRITE(PTR, $000002EA)
-Kurisu has already started work on the Microwave Ophone (Temp)'s improvements with Daru's help.
+Kurisu has already started work on the PhoneWave (Temp)'s improvements with Daru's help.
 <END>
 
 #WRITE(PTR, $0000038E)
@@ -370,7 +370,7 @@ The problem is the true form of the lifter's substitute.
 <END>
 
 #WRITE(PTR, $0000290A)
-Unless we figure it out, we can't fire up the discharge phenomenon whenever we feel like it, and the Microwave Ophone (Temp) can't be completed as the Time Leap Machine.
+Unless we figure it out, we can't fire up the discharge phenomenon whenever we feel like it, and the PhoneWave (Temp) can't be completed as the Time Leap Machine.
 <END>
 
 #WRITE(PTR, $0000291A)
@@ -382,7 +382,7 @@ I'm exhilarated.
 <END>
 
 #WRITE(PTR, $0000293A)
-The Microwave Ophone (Temp) is evolving ever further.
+The PhoneWave (Temp) is evolving ever further.
 <END>
 
 #WRITE(PTR, $0000294A)

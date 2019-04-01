@@ -434,7 +434,7 @@ I bite down on my lips in impatience.
 <END>
 
 #WRITE(PTR, $000021DC)
-Is it about the Microwave Ophone (Temp)?
+Is it about the PhoneWave (Temp)?
 <END>
 
 #WRITE(PTR, $000021EC)

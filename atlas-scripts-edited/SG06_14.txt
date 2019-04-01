@@ -82,7 +82,7 @@ If it's come to this, then all I can do is quote Kurisu word for word.
 <END>
 
 #WRITE(PTR, $00000970)
-【Rintaro】"I'm the one who improved the Microwave Ophone into the Time Leap Machine in the first place, aren't I?"
+【Rintaro】"I'm the one who improved the PhoneWave into the Time Leap Machine in the first place, aren't I?"
 <END>
 
 #WRITE(PTR, $0000098A)

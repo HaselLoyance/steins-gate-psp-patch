@@ -446,7 +446,7 @@ Daru's obvious question startles me.
 <END>
 
 #WRITE(PTR, $00001A7E)
-【Mayuri】But you know, Daru-kun is a supah hakah, and Okarin's right hand man, and together they made Microwave Ophone-chan, so I thought it was strange he never came up.
+【Mayuri】But you know, Daru-kun is a supah hakah, and Okarin's right hand man, and together they made PhoneWave-chan, so I thought it was strange he never came up.
 <END>
 
 #WRITE(PTR, $00001ACE)

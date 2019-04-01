@@ -116,11 +116,11 @@ I'm not so gullible as to think he's telling the truth.
 <END>
 
 #WRITE(PTR, $000011BE)
-【Kurisu】The Microwave Ophone shouldn't be operable at night, remember?
+【Kurisu】The PhoneWave shouldn't be operable at night, remember?
 <END>
 
 #WRITE(PTR, $00001262)
-【Rintaro】It's worth a try! At least we'll be able to figure out until what time the Microwave Ophone can operate.
+【Rintaro】It's worth a try! At least we'll be able to figure out until what time the PhoneWave can operate.
 <END>
 
 #WRITE(PTR, $00001306)
@@ -164,7 +164,7 @@ Setting its authenticity aside, I should confirm whether or not the phenomenon o
 <END>
 
 #WRITE(PTR, $00001A6C)
-Preparations for the Microwave Ophone (Temp) are complete.
+Preparations for the PhoneWave (Temp) are complete.
 <END>
 
 #WRITE(PTR, $00001B10)
@@ -340,7 +340,7 @@ Daru hunches over and starts typing out the mail.
 <END>
 
 #WRITE(PTR, $000037C6)
-To set up the Microwave Ophone (Temp)'s forwarding, I sit in front of the X68000 and take a look at my watch.
+To set up the PhoneWave (Temp)'s forwarding, I sit in front of the X68000 and take a look at my watch.
 <END>
 
 #WRITE(PTR, $000037D6)
@@ -348,7 +348,7 @@ To set up the Microwave Ophone (Temp)'s forwarding, I sit in front of the X68000
 <END>
 
 #WRITE(PTR, $000037E6)
-It's impossible to tell whether or not the Microwave Ophone (Temp) will operate or not.
+It's impossible to tell whether or not the PhoneWave (Temp) will operate or not.
 <END>
 
 #WRITE(PTR, $000037F6)
@@ -464,7 +464,7 @@ Policy?
 <END>
 
 #WRITE(PTR, $00003A16)
-【Rintaro】Even if we settled all of the Microwave Ophone (Temp)'s problems, you wouldn't use it?
+【Rintaro】Even if we settled all of the PhoneWave (Temp)'s problems, you wouldn't use it?
 <END>
 
 #WRITE(PTR, $00003A26)
@@ -750,7 +750,7 @@ At any rate, I don't understand the mail's contents, so I can't verify.
 <END>
 
 #WRITE(PTR, $00005630)
-We operate the Microwave Ophone (Temp) through the same process.
+We operate the PhoneWave (Temp) through the same process.
 <END>
 
 #WRITE(PTR, $0000564C)
@@ -806,7 +806,7 @@ Looks like the 7's the reference time.
 <END>
 
 #WRITE(PTR, $00005808)
-【Kurisu】Yesterday, I was thinking ever since I got back to the hotel. Just what mechanism does this Microwave Ophone use to make time displacement possible?
+【Kurisu】Yesterday, I was thinking ever since I got back to the hotel. Just what mechanism does this PhoneWave use to make time displacement possible?
 <END>
 
 #WRITE(PTR, $00005818)

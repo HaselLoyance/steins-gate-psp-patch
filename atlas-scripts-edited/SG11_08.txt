@@ -858,7 +858,7 @@ I don't know if it's because I've had nothing but crappy hospital food for a mon
 <END>
 
 #WRITE(PTR, $00002436)
-We disassmbled the microwave we used for the Microwave Ophone (Temp) and threw it away.
+We disassmbled the microwave we used for the PhoneWave (Temp) and threw it away.
 <END>
 
 #WRITE(PTR, $00002446)

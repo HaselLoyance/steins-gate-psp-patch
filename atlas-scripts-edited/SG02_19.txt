@@ -10,7 +10,7 @@ Now it's midnight.
 <END>
 
 #WRITE(PTR, $00000222)
-At 8 o'clock, the two of us silently ate cup noodles and warmed bananas and ever since then, we've been examining the Microwave Ophone (Temp).
+At 8 o'clock, the two of us silently ate cup noodles and warmed bananas and ever since then, we've been examining the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $00000232)

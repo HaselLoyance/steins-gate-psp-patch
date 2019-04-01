@@ -94,7 +94,7 @@ I look about my surroundings-- inside the lab.
 <END>
 
 #WRITE(PTR, $000005B2)
-...The Microwave Ophone (Temp) isn't operating.
+...The PhoneWave (Temp) isn't operating.
 <END>
 
 #WRITE(PTR, $000005C2)
@@ -106,7 +106,7 @@ In other words, it should've still been operating for about two more minutes.
 <END>
 
 #WRITE(PTR, $000005E2)
-Yet now, the Microwave Ophone (Temp) is silent.
+Yet now, the PhoneWave (Temp) is silent.
 <END>
 
 #WRITE(PTR, $00000684)
@@ -122,7 +122,7 @@ Other things-- feel wrong.
 <END>
 
 #WRITE(PTR, $00000778)
-Until just a few seconds ago, Daru should've been sitting in front of the X68000 attached to the Microwave Ophone (Temp).
+Until just a few seconds ago, Daru should've been sitting in front of the X68000 attached to the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $00000788)
@@ -178,7 +178,7 @@ Something-- is wrong.
 <END>
 
 #WRITE(PTR, $000009AC)
-【Mayuri】Yup. You suddenly ran over to Microwave Ophone-chan. You took out your phone and started going haaah haaah-.
+【Mayuri】Yup. You suddenly ran over to PhoneWave-chan. You took out your phone and started going haaah haaah-.
 <END>
 
 #WRITE(PTR, $000009BC)
@@ -318,7 +318,7 @@ It doesn't look like she's feigning ignorance or ridiculing me either.
 <END>
 
 #WRITE(PTR, $000016EA)
-【Rintaro】Daru, just now, I sent winning LOTO SIX numbers with the Microwave Ophone (Temp). Right?
+【Rintaro】Daru, just now, I sent winning LOTO SIX numbers with the PhoneWave (Temp). Right?
 <END>
 
 #WRITE(PTR, $00001704)
@@ -618,7 +618,7 @@ It seems like it changed, and at the same time, the "present" seems to have chan
 <END>
 
 #WRITE(PTR, $00002570)
-【Kurisu】...Okabe, don't tell me... you sent the winning numbers with the Microwave Ophone?
+【Kurisu】...Okabe, don't tell me... you sent the winning numbers with the PhoneWave?
 <END>
 
 #WRITE(PTR, $00002580)
@@ -650,7 +650,7 @@ The conversation's not connecting.
 <END>
 
 #WRITE(PTR, $000025FA)
-I cast a glance at the Microwave Ophone (Temp).
+I cast a glance at the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $00002656)

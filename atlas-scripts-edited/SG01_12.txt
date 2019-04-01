@@ -14,7 +14,7 @@ We need to work on the problems that we put on hold.
 <END>
 
 #WRITE(PTR, $000001BE)
-Specifically, the Microwave Ophone (Temp).
+Specifically, the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $000001CE)
@@ -22,7 +22,7 @@ I want to find out the secret behind it's mysterious function.
 <END>
 
 #WRITE(PTR, $000001DE)
-Recently, I asked Daru to connect the Microwave Ophone (Temp) to the PC.
+Recently, I asked Daru to connect the PhoneWave (Temp) to the PC.
 <END>
 
 #WRITE(PTR, $000001EE)
@@ -74,7 +74,7 @@ What a selfish guy...
 <END>
 
 #WRITE(PTR, $00000386)
-Also, we're the ones who made Microwave Ophone (Temp), so I'd like it if he didn't call it "ridiculous".
+Also, we're the ones who made PhoneWave (Temp), so I'd like it if he didn't call it "ridiculous".
 <END>
 
 #WRITE(PTR, $000003A0)
@@ -142,7 +142,7 @@ Daru gulps down his saliva.
 <END>
 
 #WRITE(PTR, $000004EA)
-【Rintaro】The Microwave Ophone (Temp) has the potential to become a powerful weapon of mass destruction. We can rewrite the history of war. Kukuku.
+【Rintaro】The PhoneWave (Temp) has the potential to become a powerful weapon of mass destruction. We can rewrite the history of war. Kukuku.
 <END>
 
 #WRITE(PTR, $000004FA)
@@ -178,7 +178,7 @@ Then I would become the enemy of other troublesome opponents, while still fighti
 <END>
 
 #WRITE(PTR, $0000069E)
-Now that the Microwave Ophone (Temp) is covered in wires, it really does look ridiculous.
+Now that the PhoneWave (Temp) is covered in wires, it really does look ridiculous.
 <END>
 
 #WRITE(PTR, $0000074A)
@@ -214,7 +214,7 @@ She can't even predict that if she lets me buy the bananas, I will only use them
 <END>
 
 #WRITE(PTR, $00000D90)
-And so, I put the bunch of bananas into the Microwave Ophone (Temp).
+And so, I put the bunch of bananas into the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $00000E3E)
@@ -230,7 +230,7 @@ And so, I put the bunch of bananas into the Microwave Ophone (Temp).
 <END>
 
 #WRITE(PTR, $00001036)
-Daru plucks a single banana from the bunch and places it inside the Microwave Ophone (Temp).
+Daru plucks a single banana from the bunch and places it inside the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $000010DA)
@@ -270,7 +270,7 @@ An instant connection.
 <END>
 
 #WRITE(PTR, $0000156A)
-【Mayuri2】R-E-N-G. This is the Microwave Ophone (Temp).
+【Mayuri2】R-E-N-G. This is the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $00001586)
@@ -306,7 +306,7 @@ I shall input "120#".
 <END>
 
 #WRITE(PTR, $00001662)
-Once I enter the symbols, the Microwave Ophone (Temp) begins working, emitting a low buzzing sound.
+Once I enter the symbols, the PhoneWave (Temp) begins working, emitting a low buzzing sound.
 <END>
 
 #WRITE(PTR, $000016AA)
@@ -342,7 +342,7 @@ Inputting complete.
 <END>
 
 #WRITE(PTR, $00001762)
-The turntable inside the Microwave Ophone starts rotating in the opposite direction.
+The turntable inside the PhoneWave starts rotating in the opposite direction.
 <END>
 
 #WRITE(PTR, $00001772)
@@ -370,7 +370,7 @@ After being silent for a while, Daru asks that question.
 <END>
 
 #WRITE(PTR, $0000180A)
-【Rintaro】Well, did you ever try heating yourself in the Microwave Ophone?
+【Rintaro】Well, did you ever try heating yourself in the PhoneWave?
 <END>
 
 #WRITE(PTR, $00001824)
@@ -422,7 +422,7 @@ I only found this out recently on a wiki.
 <END>
 
 #WRITE(PTR, $00001914)
-The Microwave Ophone (Temp) lets out a sound.
+The PhoneWave (Temp) lets out a sound.
 <END>
 
 #WRITE(PTR, $00001924)
@@ -434,7 +434,7 @@ I now feel like I wasted 120 seconds.
 <END>
 
 #WRITE(PTR, $00001950)
-Daru opens up the door of the Microwave Ophone (Temp) and looks inside.
+Daru opens up the door of the PhoneWave (Temp) and looks inside.
 <END>
 
 #WRITE(PTR, $00001960)
@@ -474,7 +474,7 @@ What the hell is he saying?
 <END>
 
 #WRITE(PTR, $00001A34)
-Not understanding the situation, I push Daru aside and look inside the Microwave Ophone (Temp).
+Not understanding the situation, I push Daru aside and look inside the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $00001A90)
@@ -638,7 +638,7 @@ The banana bunch that Mayuri asked me to buy.
 <END>
 
 #WRITE(PTR, $00001ED2)
-About 3 minutes ago, Daru picked a banana from it and put it in the Microwave Ophone (Temp).
+About 3 minutes ago, Daru picked a banana from it and put it in the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $00001EE2)
@@ -727,7 +727,7 @@ My head is full of question marks, and I don't even know how this happened, but 
 <END>
 
 #WRITE(PTR, $00002118)
-From the closed space of the Microwave Ophone (temp) to the bunch of bananas--
+From the closed space of the PhoneWave (temp) to the bunch of bananas--
 <END>
 
 #WRITE(PTR, $0000217C)

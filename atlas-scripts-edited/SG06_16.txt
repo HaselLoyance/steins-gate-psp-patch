@@ -38,7 +38,7 @@ When I ask, Mayuri optimistically answers this.
 <END>
 
 #WRITE(PTR, $000005E0)
-【Mayuri】After all, we should celebrate Super Microwave Ophone-chan's completion-
+【Mayuri】After all, we should celebrate Super PhoneWave-chan's completion-
 <END>
 
 #WRITE(PTR, $000005FA)
@@ -1066,7 +1066,7 @@ The mail I sent to Daru right after Doctor Nakabachi's conference, huh.
 <END>
 
 #WRITE(PTR, $000023F0)
-Back then, we hadn't noticed that the Microwave Ophone (Temp) was a time machine though...
+Back then, we hadn't noticed that the PhoneWave (Temp) was a time machine though...
 <END>
 
 #WRITE(PTR, $00002440)

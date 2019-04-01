@@ -340,7 +340,7 @@ If you ask why I know, it's because I'm friendless too. Fuhahaha!
 <END>
 
 #WRITE(PTR, $00000ECE)
-I need Kurisu's help to the mystery of the Microwave Ophone (Temp).
+I need Kurisu's help to the mystery of the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $00000EDE)

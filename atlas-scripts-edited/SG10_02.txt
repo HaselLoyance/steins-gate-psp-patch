@@ -69,7 +69,7 @@ The moment I sent a D-mail conveying Kurisu's death. I think the turning point a
 <END>
 
 #WRITE(PTR, $00000620)
-When did the turning point start? I don't know for sure, but I think it was the moment we completed the Microwave Ophone (Temp).
+When did the turning point start? I don't know for sure, but I think it was the moment we completed the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $00000630)

@@ -406,7 +406,7 @@ So does that mean even SERN is having a hard time?
 <END>
 
 #WRITE(PTR, $00001B00)
-【Rintaro】So, Assistant. Did you find anything out about SERN's time machine that could serve as a hint for the Microwave Ophone (Temp)?
+【Rintaro】So, Assistant. Did you find anything out about SERN's time machine that could serve as a hint for the PhoneWave (Temp)?
 <END>
 
 #WRITE(PTR, $00001B10)
@@ -422,7 +422,7 @@ Kurisu looks upwards in thought.
 <END>
 
 #WRITE(PTR, $00001B40)
-【Rintaro】I see! So basically, that means the Microwave Ophone (Temp) is a miniature LHC, right!?
+【Rintaro】I see! So basically, that means the PhoneWave (Temp) is a miniature LHC, right!?
 <END>
 
 #WRITE(PTR, $00001B50)
@@ -438,7 +438,7 @@ But instead, she agreed with me. What an ironic anticlimax.
 <END>
 
 #WRITE(PTR, $00001B80)
-【Kurisu】However, there are too many things we don't know about the Microwave Ophone. Why do the same phenomena as SERN's time machine occur in that tiny little microwave?
+【Kurisu】However, there are too many things we don't know about the PhoneWave. Why do the same phenomena as SERN's time machine occur in that tiny little microwave?
 <END>
 
 #WRITE(PTR, $00001B90)
@@ -454,7 +454,7 @@ But instead, she agreed with me. What an ironic anticlimax.
 <END>
 
 #WRITE(PTR, $00001C7E)
-【Rintaro】At the very least, the jellyman phenomenom occurs with the Microwave Ophone (Temp), so we should think that Mayuri's bananas reach the Kerr black hole's ring singularity.
+【Rintaro】At the very least, the jellyman phenomenom occurs with the PhoneWave (Temp), so we should think that Mayuri's bananas reach the Kerr black hole's ring singularity.
 <END>
 
 #WRITE(PTR, $00001C98)
@@ -742,7 +742,7 @@ Wait, when did Mayuri become the speaker?
 <END>
 
 #WRITE(PTR, $000037C2)
-【Rintaro】What we should be talking about is how we can make the Microwave Ophone (Temp) usable as a time machine.
+【Rintaro】What we should be talking about is how we can make the PhoneWave (Temp) usable as a time machine.
 <END>
 
 #WRITE(PTR, $000037D2)
@@ -770,7 +770,7 @@ Wait, when did Mayuri become the speaker?
 <END>
 
 #WRITE(PTR, $0000384C)
-【Kurisu】I don't know what you mean by symbol, but how are you going to use the Microwave Ophone as a time machine? Tell me your concrete solution.
+【Kurisu】I don't know what you mean by symbol, but how are you going to use the PhoneWave as a time machine? Tell me your concrete solution.
 <END>
 
 #WRITE(PTR, $00003876)
@@ -918,7 +918,7 @@ Mayuri pats the back of Kurisu's head, grandly waving her hand to the sky.
 <END>
 
 #WRITE(PTR, $00003EEA)
-Kurisu pulls herself together, types on the phone, and activates the Microwave Ophone (Temp).
+Kurisu pulls herself together, types on the phone, and activates the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $00003EFA)
@@ -1002,7 +1002,7 @@ It's like she's pushing us around...
 <END>
 
 #WRITE(PTR, $000041F2)
-While grinding my teeth, I insert my phone into the Microwave Ophone (Temp)'s slot.
+While grinding my teeth, I insert my phone into the PhoneWave (Temp)'s slot.
 <END>
 
 #WRITE(PTR, $00004242)
@@ -1091,7 +1091,7 @@ Light flashes across the room.
 <END>
 
 #WRITE(PTR, $0000465E)
-The cushioning underneath the Microwave Ophone (Temp) collapses under the weight.
+The cushioning underneath the PhoneWave (Temp) collapses under the weight.
 <END>
 
 #WRITE(PTR, $0000466E)
@@ -1107,7 +1107,7 @@ The discharge phenomenon itself ended in a few dozen seconds.
 <END>
 
 #WRITE(PTR, $0000471C)
-Everybody looks at the Microwave Ophone (Temp) underneath the table with bated breath.
+Everybody looks at the PhoneWave (Temp) underneath the table with bated breath.
 <END>
 
 #WRITE(PTR, $0000472C)
@@ -1119,7 +1119,7 @@ Luckily, it didn't break through the floor. That's a relief.
 <END>
 
 #WRITE(PTR, $00004846)
-I disconnect my phone from the Microwave Ophone (Temp), and check my mail.
+I disconnect my phone from the PhoneWave (Temp), and check my mail.
 <END>
 
 #WRITE(PTR, $00004856)
@@ -1263,7 +1263,7 @@ Now that we've reproduced the discharge phenomenon, as well as D-mail, we should
 <END>
 
 #WRITE(PTR, $0000564C)
-【Rintaro】Daru, use the X68000 to observe, adjust, and gather information on the Microwave Ophone (Temp).
+【Rintaro】Daru, use the X68000 to observe, adjust, and gather information on the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $00005666)

@@ -95,7 +95,7 @@ Yesterday--
 <END>
 
 #WRITE(PTR, $00000552)
-That shocking experiment gave me the conviction that the Microwave Ophone (Temp) can function as a time machine.
+That shocking experiment gave me the conviction that the PhoneWave (Temp) can function as a time machine.
 <END>
 
 #WRITE(PTR, $0000056E)
@@ -123,11 +123,11 @@ So, Daru and I are left in the lab.
 <END>
 
 #WRITE(PTR, $0000070E)
-Our enthusiasm shot through the roof after we learned that the Microwave Ophone (Temp) was hiding such possibilities, and we witnessed a mail sent back into the past.
+Our enthusiasm shot through the roof after we learned that the PhoneWave (Temp) was hiding such possibilities, and we witnessed a mail sent back into the past.
 <END>
 
 #WRITE(PTR, $0000071E)
-So we've been staying up all night doing all sorts of experiments to check if the Microwave Ophone (Temp) is a time machine or not.
+So we've been staying up all night doing all sorts of experiments to check if the PhoneWave (Temp) is a time machine or not.
 <END>
 
 #WRITE(PTR, $0000072E)
@@ -135,7 +135,7 @@ But the results....
 <END>
 
 #WRITE(PTR, $0000073E)
-We bought various things to throw into the Microwave Ophone (Temp), but they all failed. No change. Nothing happened.
+We bought various things to throw into the PhoneWave (Temp), but they all failed. No change. Nothing happened.
 <END>
 
 #WRITE(PTR, $0000074E)
@@ -181,7 +181,7 @@ Problem 2--
 <LINE>
 The problem of mass increase.
 <LINE>
-When the discharge phenomenon occurs, the Microwave Ophone (Temp) seems to have a sudden mass increase for unknown reasons.
+When the discharge phenomenon occurs, the PhoneWave (Temp) seems to have a sudden mass increase for unknown reasons.
 <LINE>
 Because of this, the microwave broke the table and made a dent in the floor.
 <ENDPANEL>
@@ -837,7 +837,7 @@ Upon hearing my request, Daru makes an astonished face.
 <END>
 
 #WRITE(PTR, $00002FE6)
-【Rintaro】We're now at the junction of whether we can use the Microwave Ophone (Temp) as a time machine or whether it will die as garbage in the lab's storage.
+【Rintaro】We're now at the junction of whether we can use the PhoneWave (Temp) as a time machine or whether it will die as garbage in the lab's storage.
 <END>
 
 #WRITE(PTR, $00003000)

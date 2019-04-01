@@ -6,7 +6,7 @@
 #JMP($00002C76)
 
 #WRITE(PTR, $00000890)
-Daru and I stop thinking about the problems concerning the Microwave Ophone (Temp) and head towards <DICT>Daibiru</DICT>.
+Daru and I stop thinking about the problems concerning the PhoneWave (Temp) and head towards <DICT>Daibiru</DICT>.
 <END>
 
 #WRITE(PTR, $0000093C)
@@ -82,7 +82,7 @@ There's more than one reason for why were going to ATF to participate in this.
 <END>
 
 #WRITE(PTR, $000012E2)
-【Rintaro】We might acquire some answers to the problems concerning the Microwave Ophone (Temp).
+【Rintaro】We might acquire some answers to the problems concerning the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $000012F2)
@@ -110,7 +110,7 @@ That will not shake my resolution. Even if no other lab members say it I will ke
 <END>
 
 #WRITE(PTR, $0000136E)
-【Rintaro】Daru I believe that the Microwave Ophone (Temp) might be the key that will open the Steins;Gate. What do you make of that?
+【Rintaro】Daru I believe that the PhoneWave (Temp) might be the key that will open the Steins;Gate. What do you make of that?
 <END>
 
 #WRITE(PTR, $0000137E)

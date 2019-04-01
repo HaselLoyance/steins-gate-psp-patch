@@ -1034,11 +1034,11 @@ Let's set aside Mayuri's serious affliction for now.
 <END>
 
 #WRITE(PTR, $00003992)
-【Rintaro】Remember. We have the Microwave Ophone (Temp) in our possession, do we not?
+【Rintaro】Remember. We have the PhoneWave (Temp) in our possession, do we not?
 <END>
 
 #WRITE(PTR, $000039B0)
-【Mayuri】Microwave Ophone-chan?
+【Mayuri】PhoneWave-chan?
 <END2>
 
 #WRITE(PTR, $000039CA)
@@ -1194,7 +1194,7 @@ At any rate, it doesn't look like Mayuri's got any particular objections.
 <END>
 
 #WRITE(PTR, $00003DAC)
-【Rintaro】The Microwave Ophone (Temp) is our lab's most important secret matter. In order to use it, you must become a lab mem.
+【Rintaro】The PhoneWave (Temp) is our lab's most important secret matter. In order to use it, you must become a lab mem.
 <END>
 
 #WRITE(PTR, $00003DBC)
@@ -1394,7 +1394,7 @@ The means of receiving the mail... An era where cellular telephones hadn't becom
 <END>
 
 #WRITE(PTR, $0000433A)
-【Itaru】Even you're forgetting about the Microwave Ophone, aren't you?
+【Itaru】Even you're forgetting about the PhoneWave, aren't you?
 <END>
 
 #WRITE(PTR, $0000434A)

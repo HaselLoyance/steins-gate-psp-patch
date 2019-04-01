@@ -106,7 +106,7 @@ With these circumstances, Kurisu once again began speaking her worries.
 <END>
 
 #WRITE(PTR, $0000055A)
-【Kurisu】For the final adjustments, we need to operate the Microwave Ophone.
+【Kurisu】For the final adjustments, we need to operate the PhoneWave.
 <END>
 
 #WRITE(PTR, $0000056A)
@@ -114,7 +114,7 @@ I groan.
 <END>
 
 #WRITE(PTR, $0000057A)
-Operate the Microwave Ophone. In other words, activate the discharge phenomenon.
+Operate the PhoneWave. In other words, activate the discharge phenomenon.
 <END>
 
 #WRITE(PTR, $0000058A)
@@ -150,7 +150,7 @@ Kurisu and Daru look at me.
 <END>
 
 #WRITE(PTR, $000007D6)
-【Kurisu】Your sacrifice will complete the first time leap usage of the Microwave Ophone.
+【Kurisu】Your sacrifice will complete the first time leap usage of the PhoneWave.
 <END>
 
 #WRITE(PTR, $000007E6)

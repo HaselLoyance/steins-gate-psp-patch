@@ -494,7 +494,7 @@ Daru is at his PC, muttering something or another.
 <END>
 
 #WRITE(PTR, $00003A52)
-Kurisu... is in the development room, playing around with the Microwave Ophone (Temp).
+Kurisu... is in the development room, playing around with the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $00003A62)

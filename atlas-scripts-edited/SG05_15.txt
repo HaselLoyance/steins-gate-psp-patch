@@ -238,7 +238,7 @@ That's how she answered when I asked.
 <END>
 
 #WRITE(PTR, $0000199A)
-【Kurisu】I got too caught up in improving the Microwave Ophone.
+【Kurisu】I got too caught up in improving the PhoneWave.
 <END>
 
 #WRITE(PTR, $00001A3E)

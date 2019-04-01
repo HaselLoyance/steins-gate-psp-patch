@@ -902,7 +902,7 @@ And nod to Kurisu.
 <END>
 
 #WRITE(PTR, $00001F92)
-Kurisu calls Daru at the lab to activate the Microwave Ophone (Temp).
+Kurisu calls Daru at the lab to activate the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $0000200C)
@@ -922,7 +922,7 @@ But now, Moeka died first, while Mayuri still lives.
 <END>
 
 #WRITE(PTR, $000020A4)
-The result of changing the past with the Microwave Ophone (Temp).
+The result of changing the past with the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $000020CA)

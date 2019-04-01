@@ -238,7 +238,7 @@ That's not like you, mad scientist Hououin Kyouma. Calm down a bit.
 <END>
 
 #WRITE(PTR, $00000EDE)
-【Kurisu】The Microwave Ophone's principle is still not even constructed of hypotheses.
+【Kurisu】The PhoneWave's principle is still not even constructed of hypotheses.
 <END>
 
 #WRITE(PTR, $00000EEE)
@@ -266,7 +266,7 @@ Kurisu quickly looks away.
 <END>
 
 #WRITE(PTR, $00000F64)
-【Rintaro】Anyway, Assistant, didn't you want to deny that the Microwave Ophone (Temp) was a time machine?
+【Rintaro】Anyway, Assistant, didn't you want to deny that the PhoneWave (Temp) was a time machine?
 <END>
 
 #WRITE(PTR, $00000F74)
@@ -898,7 +898,7 @@ She doesn't seem that interested, but Moeka nods.
 <END>
 
 #WRITE(PTR, $00003B88)
-We set the Microwave Ophone (Temp).
+We set the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $00003B98)
@@ -914,7 +914,7 @@ That address is my phone's, of course.
 <END>
 
 #WRITE(PTR, $00003C00)
-Putting on the white coat, Kurisu double checks the dedicated phone attached to the Microwave Ophone (Temp).
+Putting on the white coat, Kurisu double checks the dedicated phone attached to the PhoneWave (Temp).
 <END>
 
 #WRITE(PTR, $00003C48)
