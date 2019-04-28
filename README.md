@@ -5,7 +5,7 @@
 
 Steins;Gate was released for PSP in 2011. This version of the game did not get much attention in the West, since it was available only in Japanese. Until now. I present you the Steins;Gate PSP English Patch. Combined from bits and pieces of other translations for other platforms, it brings the English Steins;Gate experience to the PSP.
 
-#### ✔️ Current version (v1.0.0)
+#### ✔️ Current version (v1.0.1)
 - Translated story scripts
 - Translated DICT (tips)
 - Translated phonebook
@@ -14,12 +14,19 @@ Steins;Gate was released for PSP in 2011. This version of the game did not get m
 - Translated cutscenes
 - Translated phone UI
 - Translated UI elements across all menus
-- Translated contents of all menus (Settings, Clear screen, Load, Save, etc)
+- Translated contents of all menus (Settings, Clear Screen, Load, Save, etc)
 - Translated system messages
 - Translated PSP HOME menu
 - X and O buttons were switched to resemble traditional Western control scheme on PSP
 
 #### 📝 Bugfixes and smaller changes
+**v1.0.1:**
+- Changed Save/Load UI
+- Re-rendered fake ending cutscene
+- Fixed appearance of some tips
+- Fixed text overflow
+- Fixed some typos and inconsistencies
+
 **v1.0.0:**
 - Replaced ICON0 and PIC1
 - Dropped support of xDelta
@@ -31,7 +38,7 @@ Steins;Gate was released for PSP in 2011. This version of the game did not get m
 #### 💿 ISO information
 Here are the MD5 hashes I ended up with:
 - Original ISO: `5ed76b04eac58b0e459bed06108eed74`
-- Patched ISO v1.0.0: `482be2ba9ae33f04f5c1d4c7bf693318`
+- Patched ISO v1.0.1: `1BA7713D1B6CE72481CE79FE6984FEBF`
 
 If you don't have the same hashes before and/or after, then it most likely won't work for you.
 
@@ -59,9 +66,6 @@ It's for the best if you report even the smallest things. Typos/text overflow/bu
 - CommitteeOfZero, the source of the translated backgrounds, as well as translated/karaoke cutscenes. They have a thing on their [GitHub](https://github.com/CommitteeOfZero) called [sghd-patch](https://github.com/CommitteeOfZero/sghd-patch), which is an improvement over the stock Steam translation of the PC version. Check out their [website](http://sonome.dareno.me/) for more S;G-related projects.
 - theryusui, was of a huge help to me with the `.KLZ` compression/decompression. Practically they dug up their 5 year old version of the only decompressor in the entire world. Their [Tumblr](https://theryusui.tumblr.com/) and [Romhacking](https://www.romhacking.net/forum/index.php?action=profile;u=181) profile.
 - ilubandroid, provided sick ICON0 and PIC1. They literally look better than the ones in the original game. Their [Reddit](https://www.reddit.com/user/ilubandroid).
-
-#### 🎥 Video of how this patch was made
-Coming at some point in the near future
 
 #### 🖼️ Screenshots
 ![](https://haselloyance.github.io/0_SGPSPE/pic1.jpg)
